@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Presentation Tools"
-date:   2018-01-31 3:00pm
+title:  "Literacy & Numeracy"
+date:   2018-03-04 3:00pm
 categories: ict-integration
 ---
 An introduction to the idea of technology being a core literacies in addition to the 3 "R's" of Reading, Writing, and Arithmetic, given that enormous amounts of information are available to us from any device, and technology becomes more integrated into every part of society. Additionally, an introduction to different software solutions and packages that can be used to assist learning in Mathematics and Numeracy ([Mathletics](http://au.mathletics.com/), [MathsOnline](https://www.mathsonline.com.au/), [Geogebra](https://www.geogebra.org/), [Gapminder](https://www.gapminder.org/)) and Literacy ([Turnitin](http://turnitin.com/), [Schmoop](https://www.shmoop.com/), advanced uses of [Word](https://products.office.com/en-au/word)).
