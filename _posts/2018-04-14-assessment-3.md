@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Seminar 1 - Introducation to SACE"
-date:   2018-01-31 1:00pm
+title:  "Seminar 3: Assessment - Validity and Purpose"
+date:   2018-01-31 3:00pm
 categories: curriculum-core
 ---
 A non-exhaustive list of types of assessment:
