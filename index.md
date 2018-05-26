@@ -2,14 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 ![Portrait](/media/portrait.png){:width="150px" align="right"} 
 
 My name is Jeremy Hughes, and I am a STEM Educator.
-This website acts as my personal ePortfolio. 
-
-
 
 # Personal Statement
 

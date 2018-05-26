@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+lang: en-AU
 title: Jeremy Hughes - STEM Educator
 email: jeremyinstem@outlook.com.au
 description: >- # this means to ignore newlines until "baseurl:"
@@ -23,10 +24,11 @@ twitter_username: JeremyInSTEM
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: minima
 plugins:
   - jekyll-feed
-
+feed:
+  path: atom.xml
 
 kramdown:
   auto_ids: true # Auto-generate ID's for headings
@@ -37,25 +39,6 @@ header_pages:
  - apst.md 
  - reflections.html
 
-collections:
-  category:
-    output: true
-  tag: 
-    output: true
- 
-defaults:
-  -
-    scope:
-      path: ""
-      type: category
-    values:
-      layout: "category"
-  -
-    scope:
-      path: ""
-      type: tag
-    values:
-      layout: "tag"
 
 
 # Exclude from processing.

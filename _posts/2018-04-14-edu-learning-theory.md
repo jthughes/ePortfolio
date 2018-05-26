@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seminar 5: Educational Learning Theory
+title:  "Seminar 5: Educational Learning Theory"
 date:   2018-04-14 5:00pm
 categories: curriculum-core
 ---

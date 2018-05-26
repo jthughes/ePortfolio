@@ -1,5 +1,5 @@
 ---
-layout: apst
+layout: page
 title: Standards
 permalink: /apst/
 ---
@@ -61,3 +61,5 @@ The following evidence is given for the graduate level proficiency.
 2. [Comply with legislative, administrative and organisational requirements](#apst7-2)
 3. [Engage with the parents/carers](#apst7-3)
 4. [Engage with professional teaching networks and broader communities](#apst7-4)
+
+{% include standards.html %}
