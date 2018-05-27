@@ -77,7 +77,7 @@ The following evidence is given for the graduate level proficiency.
     <tr>
 		<td id="{{ standard.id }}">
 			<p>
-				<strong>{{ standard.standard}}</strong>
+				<strong>{{ standard.descriptor}}</strong>
 			</p>
 			<p>
 				<strong>Graduate Level:</strong> {{standard.indicator}}
