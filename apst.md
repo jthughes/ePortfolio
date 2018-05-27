@@ -65,10 +65,41 @@ The following evidence is given for the graduate level proficiency.
 
 {% for heading in site.data.standard-heading %}
 # {{ heading.standard }} {#{{ heading.id }}}
-
-| **Standard** | **Reflection and Evidence against Standard** |
-|---|---|
-{% for standard in site.data.standard-descriptors %}{% if standard.id contains heading.id -%}
-| **{{ standard.standard }}** <br> {{ standard.description}} | {{ standard.evidence }} <br> [For a comprehensive list of relevant evidence/reflections see here:]({{ site.baseurl }}/apst/{{ standard.id | slice: 4, 6 }})| 
-{% endif %}{% endfor %}
+<table>
+    <col style="width:25%">
+	<col style="width:75%">
+    <tr>
+		<th>Standard</th>
+		<th>Reflection and Evidence against Standard</th>
+	</tr>
+{%- for standard in site.data.standard-descriptors %}
+    {%- if standard.id contains heading.id %}
+    <tr>
+		<td id="{{ standard.id }}">
+			<p>
+				<strong>{{ standard.standard}}</strong>
+			</p>
+			<p>
+				<strong>Graduate Level:</strong> {{standard.graduate}}
+            </p>
+		</td>
+		<td>
+            <p>
+                {{ standard.evidence }}
+            </p>
+            <p>
+			    <a href="{{ site.baseurl }}/apst/{{ standard.id | slice: 4, 6 }}">For a comprehensive list of relevant evidence/reflections see here</a>.
+                {%- if standard.display-list == true %}
+                <ul>
+                    {% for post in site.tags["5-2"] %} *
+                    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                    {% endfor %}
+			    </ul>
+                {% endif %}
+            </p>
+        </td>
+	</tr>
+    {% endif %}
+{% endfor %}
+</table>
 {% endfor %}

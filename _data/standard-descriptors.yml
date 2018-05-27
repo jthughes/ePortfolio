@@ -1,203 +1,241 @@
+# "display-list: true" lists all tagged posts with id under evidence.
+
 - id: "apst1-1"
-  
   standard: "1.1 Physical, social and intellectual development and characteristics of students."
-  description: "*Graduate Level:* Demonstrate knowledge and understanding of physical, social and intellectual	development and characteristics of students and how these may affect learning."
-  evidence: "Evidence of meeting this standard area is via the [Handbook on ‘Promoting a Positive Learning Environment’](http://www.jeremythughes.com/handbook-promoting-a-positive-learning-environment.html), which references and discusses Piaget’s theory of cognitive development, and other development theories and research, and their application in the classroom.   "
+  graduate: "Demonstrate knowledge and understanding of physical, social and intellectual	development and characteristics of students and how these may affect learning."
+  evidence: "Evidence of meeting this standard area is via the [Handbook on ‘Promoting a Positive Learning Environment’](http://www.jeremythughes.com/handbook-promoting-a-positive-learning-environment.html), which references and discusses Piaget’s theory of cognitive development, and other development theories and research, and their application in the classroom."
+  display-list: 
 
 - id: "apst1-2"
   standard: "1.2 Understand how students learn."
-  description: "*Graduate Level:* Demonstrate knowledge and understanding of research into how students learn and the implications for teaching."
-  evidence: "Evidence of meeting this standard area is via the [Handbook on ‘Promoting a Positive Learning Environment’](http://www.jeremythughes.com/handbook-promoting-a-positive-learning-environment.html), which details strategies for managing students in the classroom, making reference to education research and management theories, and linking this research to the strategies employed in the classroom.   "
+  graduate: "Demonstrate knowledge and understanding of research into how students learn and the implications for teaching."
+  evidence: "Evidence of meeting this standard area is via the [Handbook on ‘Promoting a Positive Learning Environment’](http://www.jeremythughes.com/handbook-promoting-a-positive-learning-environment.html), which details strategies for managing students in the classroom, making reference to education research and management theories, and linking this research to the strategies employed in the classroom."
+  display-list:
 
 - id: "apst1-3"
   standard: "1.3 Students with diverse linguistic, cultural, religious and socioeconomic backgrounds."
-  description: "*Graduate Level:* Demonstrate knowledge of teaching strategies that are responsive to the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds."
+  graduate: "Demonstrate knowledge of teaching strategies that are responsive to the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds."
   evidence: ""
+  display-list:
 
 - id: "apst1-4"
   standard: "1.4 Strategies for teaching Aboriginal and Torres Strait Islander students."
-  description: "*Graduate Level:* Demonstrate broad knowledge and understanding of the impact of culture, cultural identity and linguistic background on the education of students from Aboriginal and Torres Strait Islander backgrounds."
+  graduate: "Demonstrate broad knowledge and understanding of the impact of culture, cultural identity and linguistic background on the education of students from Aboriginal and Torres Strait Islander backgrounds."
   evidence: ""
+  display-list:
 
 - id: "apst1-5"
   standard: "1.5 Differentiate teaching to meet the specific learning needs of students across the full range of abilities."
-  description: "*Graduate Level:* Demonstrate knowledge and understanding of strategies for differentiating teaching to meet the specific learning needs of students across the full range of abilities."
+  graduate: "Demonstrate knowledge and understanding of strategies for differentiating teaching to meet the specific learning needs of students across the full range of abilities."
   evidence: ""
+  display-list:
 
 - id: "apst1-6"
   standard: "1.6 Strategies to support full participation of students with disability."
-  description: "*Graduate Level:* Demonstrate broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disability."
+  graduate: "Demonstrate broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disability."
   evidence: ""
+  display-list:
 
 
 
 
 - id: "apst2-1"
   standard: "2.1 Content and teaching strategies of the teaching area."
-  description: "*Graduate Level:* Demonstrate knowledge and understanding of the concepts, substance and structure of the content and teaching strategies of the teaching area."
+  graduate: "Demonstrate knowledge and understanding of the concepts, substance and structure of the content and teaching strategies of the teaching area."
   evidence: ""
+  display-list:
 
 - id: "apst2-2"
   standard: "2.2 Content selection and organisation."
-  description: "*Graduate Level:* Organise content into an effective learning and teaching sequence."
+  graduate: "Organise content into an effective learning and teaching sequence."
   evidence: ""
+  display-list:
 
 - id: "apst2-3"
   standard: "2.3 Curriculum, assessment and reporting."
-  description: "*Graduate Level:* Use curriculum, assessment and reporting knowledge to design learning sequences and lesson plans."
+  graduate: "Use curriculum, assessment and reporting knowledge to design learning sequences and lesson plans."
   evidence: ""
+  display-list:
 
 - id: "apst2-4"
   standard: "2.4 Understand and respect Aboriginal and Torres Strait Islander people to promote reconciliation between Indigenous and non-Indigenous Australians."
-  description: "*Graduate Level:* Demonstrate broad knowledge of, understanding of and respect for Aboriginal and Torres Strait Islander histories, cultures and languages"
+  graduate: "Demonstrate broad knowledge of, understanding of and respect for Aboriginal and Torres Strait Islander histories, cultures and languages"
   evidence: ""
+  display-list:
 
 - id: "apst2-5"
   standard: "2.5 Literacy and numeracy strategies."
-  description: "*Graduate Level:* Know and understand literacy and numeracy teaching strategies and their application in teaching areas."
+  graduate: "Know and understand literacy and numeracy teaching strategies and their application in teaching areas."
   evidence: ""
+  display-list:
 
 - id: "apst2-6"
   standard: "2.6 Information and Communication Technology (ICT)."
-  description: "*Graduate Level:* Implement teaching strategies for using ICT to expand curriculum learning opportunities for students."
+  graduate: "Implement teaching strategies for using ICT to expand curriculum learning opportunities for students."
   evidence: ""
+  display-list:
 
 
 
 
 - id: "apst3-1"
   standard: "3.1 Establish challenging learning goals."
-  description: "*Graduate Level:* Set learning goals that provide achievable challenges for students of varying abilities and characteristics."
+  graduate: "Set learning goals that provide achievable challenges for students of varying abilities and characteristics."
   evidence: ""
+  display-list:
 
 - id: "apst3-2"
   standard: "3.2 Plan, structure and sequence learning programs."
-  description: "*Graduate Level:* Plan lesson sequences using knowledge of student learning, content and effective teaching strategies."
+  graduate: "Plan lesson sequences using knowledge of student learning, content and effective teaching strategies."
   evidence: ""
+  display-list:
 
 - id: "apst3-3"
   standard: "3.3 Use teaching strategies."
-  description: "*Graduate Level:* Include a range of teaching strategies."
+  graduate: "Include a range of teaching strategies."
   evidence: ""
+  display-list:
 
 - id: "apst3-4"
   standard: "3.4 Select and use resources."
-  description: "*Graduate Level:* Demonstrate knowledge of a range of resources, including ICT, that engage students in their learning."
+  graduate: "Demonstrate knowledge of a range of resources, including ICT, that engage students in their learning."
   evidence: ""
+  display-list:
 
 - id: "apst3-5"
   standard: "3.5 Use effective classroom communication."
-  description: "*Graduate Level:* Demonstrate a range of verbal and non-verbal communication strategies to support student engagement."
+  graduate: "Demonstrate a range of verbal and non-verbal communication strategies to support student engagement."
   evidence: ""
+  display-list:
 
 - id: "apst3-6"
   standard: "3.6 Evaluate and improve teaching programs."
-  description: "*Graduate Level:* Demonstrate broad knowledge of strategies that can be used to evaluate teaching programs to improve student learning."
+  graduate: "Demonstrate broad knowledge of strategies that can be used to evaluate teaching programs to improve student learning."
   evidence: ""
+  display-list:
 
 - id: "apst3-7"
   standard: "3.7 Engage parents/carers in the educative process."
-  description: "*Graduate Level:* Describe a broad range of strategies for involving parents/carers in the educative process."
+  graduate: "Describe a broad range of strategies for involving parents/carers in the educative process."
   evidence: ""
+  display-list:
 
 
 
 
 - id: "apst4-1"
   standard: "4.1 Support student participation."
-  description: "*Graduate Level:* Identify strategies to support inclusive student participation and engagement in classroom activities."
+  graduate: "Identify strategies to support inclusive student participation and engagement in classroom activities."
   evidence: ""
+  display-list:
 
 - id: "apst4-2"
   standard: "4.2 Manage classroom activities."
-  description: "*Graduate Level:* Demonstrate the capacity to organise classroom activities and provide clear directions."
+  graduate: "Demonstrate the capacity to organise classroom activities and provide clear directions."
   evidence: ""
+  display-list:
 
 - id: "apst4-3"
   standard: "4.3 Manage challenging behaviour."
-  description: "*Graduate Level:* Demonstrate knowledge of practical approaches to manage challenging behaviour."
+  graduate: "Demonstrate knowledge of practical approaches to manage challenging behaviour."
   evidence: ""
+  display-list:
 
 - id: "apst4-4"
   standard: "4.4 Maintain student safety."
-  description: "*Graduate Level:* Describe strategies that support students’ well- being and safety working within school and/or system, curriculum and legislative requirements."
+  graduate: "Describe strategies that support students’ well- being and safety working within school and/or system, curriculum and legislative requirements."
   evidence: ""
+  display-list:
 
 - id: "apst4-5"
   standard: "4.5 Use ICT safely, responsibly and ethically."
-  description: "*Graduate Level:* Demonstrate an understanding of the relevant issues and the strategies available to support the safe, responsible and ethical use of ICT in learning and teaching."
+  graduate: "Demonstrate an understanding of the relevant issues and the strategies available to support the safe, responsible and ethical use of ICT in learning and teaching."
   evidence: ""
+  display-list:
 
 
 
 
 - id: "apst5-1"
   standard: "5.1 Assess student learning."
-  description: "*Graduate Level:* Demonstrate understanding of assessment strategies, including informal and formal, diagnostic, formative and summative approaches to assess student learning."
+  graduate: "Demonstrate understanding of assessment strategies, including informal and formal, diagnostic, formative and summative approaches to assess student learning."
   evidence: ""
+  display-list:
 
 - id: "apst5-2"
   standard: "5.2 Provide feedback to students on their learning."
-  description: "*Graduate Level:* Demonstrate an understanding of the purpose of providing timely and appropriate feedback to students about their learning."
+  graduate: "Demonstrate an understanding of the purpose of providing timely and appropriate feedback to students about their learning."
   evidence: ""
+  display-list:
 
 - id: "apst5-3"
   standard: "5.3 Make consistent and comparable judgements."
-  description: "*Graduate Level:* Demonstrate understanding of assessment moderation and its application to support consistent and comparable judgements of student learning."
+  graduate: "Demonstrate understanding of assessment moderation and its application to support consistent and comparable judgements of student learning."
   evidence: ""
+  display-list:
 
 - id: "apst5-4"
   standard: "5.4 Interpret student data."
-  description: "*Graduate Level:* Demonstrate the capacity to interpret student assessment data to evaluate student learning and modify teaching practice."
+  graduate: "Demonstrate the capacity to interpret student assessment data to evaluate student learning and modify teaching practice."
   evidence: ""
+  display-list:
 
 - id: "apst5-5"
   standard: "5.5 Report on student achievement."
-  description: "*Graduate Level:* Demonstrate understanding of a range of strategies for reporting to students and parents/carers and the purpose of keeping accurate and reliable records of student achievement."
+  graduate: "Demonstrate understanding of a range of strategies for reporting to students and parents/carers and the purpose of keeping accurate and reliable records of student achievement."
   evidence: ""
+  display-list:
 
 
 
 
 - id: "apst6-1"
   standard: "6.1 Identify and plan professional learning needs."
-  description: "*Graduate Level:* Demonstrate an understanding of the role of the National Professional Standards for Teachers in identifying professional learning needs."
+  graduate: "Demonstrate an understanding of the role of the National Professional Standards for Teachers in identifying professional learning needs."
   evidence: ""
+  display-list:
 
 - id: "apst6-2"
   standard: "6.2 Engage in professional learning and improve practice."
-  description: "*Graduate Level:* Understand the relevant and appropriate sources of professional learning for teachers."
+  graduate: "Understand the relevant and appropriate sources of professional learning for teachers."
   evidence: ""
+  display-list:
 
 - id: "apst6-3"
   standard: "6.3 Engage with colleagues and improve practice."
-  description: "*Graduate Level:* Seek and apply constructive feedback from supervisors and teachers to improve teaching practices."
+  graduate: "Seek and apply constructive feedback from supervisors and teachers to improve teaching practices."
   evidence: ""
+  display-list:
 
 - id: "apst6-4"
   standard: "6.4 Apply professional learning and improve student learning."
-  description: "*Graduate Level:* Demonstrate an understanding of the rationale for continued professional learning and the implications for improved student learning."
+  graduate: "Demonstrate an understanding of the rationale for continued professional learning and the implications for improved student learning."
   evidence: ""
+  display-list:
 
 
 
 
 - id: "apst7-1"
   standard: "7.1 Meet professional ethics and responsibilities."
-  description: "*Graduate Level:* Understand and apply the key principles described in codes of ethics and conduct for the teaching profession."
+  graduate: "Understand and apply the key principles described in codes of ethics and conduct for the teaching profession."
   evidence: ""
+  display-list:
 
 - id: "apst7-2"
   standard: "7.2 Comply with legislative, administrative and organisational requirements."
-  description: "*Graduate Level:* Understand the relevant legislative, administrative and organisational policies and processes required for teachers according to school stage."
+  graduate: "Understand the relevant legislative, administrative and organisational policies and processes required for teachers according to school stage."
   evidence: ""
+  display-list:
 
 - id: "apst7-3"
   standard: "7.3 Engage with the parents/carers."
-  description: "*Graduate Level:* Understand strategies for working effectively, sensitively and confidentially with parents/carers"
+  graduate: "Understand strategies for working effectively, sensitively and confidentially with parents/carers"
   evidence: ""
+  display-list:
 
 - id: "apst7-4"
   standard: "7.4 Engage with professional teaching networks and broader communities."
-  description: "*Graduate Level:* Understand the role of external professionals and community representatives in broadening teachers’ professional knowledge and practice."
+  graduate: "Understand the role of external professionals and community representatives in broadening teachers’ professional knowledge and practice."
   evidence: ""
+  display-list:
