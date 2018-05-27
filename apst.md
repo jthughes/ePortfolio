@@ -62,4 +62,13 @@ The following evidence is given for the graduate level proficiency.
 3. [Engage with the parents/carers](#apst7-3)
 4. [Engage with professional teaching networks and broader communities](#apst7-4)
 
-{% include standards.html %}
+
+{% for heading in site.data.standard-heading %}
+# {{ heading.standard }} {#{{ heading.id }}}
+
+| **Standard** | **Reflection and Evidence against Standard** |
+|---|---|
+{% for standard in site.data.standard-descriptors %}{% if standard.id contains heading.id -%}
+| **{{ standard.standard }}** <br> {{ standard.description}} | {{ standard.evidence }} <br> [For a comprehensive list of relevant evidence/reflections see here:]({{ site.baseurl }}/apst/{{ standard.id | slice: 4, 6 }})| 
+{% endif %}{% endfor %}
+{% endfor %}

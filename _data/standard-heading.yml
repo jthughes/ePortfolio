@@ -1,0 +1,20 @@
+- id: "apst1" 
+  standard: "Standard 1: Know students and how they learn"
+  
+- id: "apst2" 
+  standard: "Standard 2: Know the content and how to teach it"
+
+- id: "apst3" 
+  standard: "Standard 3: Plan for and implement effective teaching and learning"
+
+- id: "apst4" 
+  standard: "Standard 4: Create and maintain supportive and safe learning environments"
+
+- id: "apst5" 
+  standard: "Standard 5: Assess, provide feedback and report on student learning"
+
+- id: "apst6" 
+  standard: "Standard 6: Engage in professional learning"
+
+- id: "apst7" 
+  standard: "Standard 7: Engage professionally with colleagues, parents/carers and the community"
