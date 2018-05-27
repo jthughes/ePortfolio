@@ -1,38 +1,38 @@
 # "display-list: true" lists all tagged posts with id under evidence.
 
 - id: "apst1-1"
-  standard: "1.1 Physical, social and intellectual development and characteristics of students."
-  graduate: "Demonstrate knowledge and understanding of physical, social and intellectual	development and characteristics of students and how these may affect learning."
-  evidence: "Evidence of meeting this standard area is via the [Handbook on ‘Promoting a Positive Learning Environment’](http://www.jeremythughes.com/handbook-promoting-a-positive-learning-environment.html), which references and discusses Piaget’s theory of cognitive development, and other development theories and research, and their application in the classroom."
+  descriptor: "1.1 Physical, social and intellectual development and characteristics of students."
+  indicator: "Demonstrate knowledge and understanding of physical, social and intellectual	development and characteristics of students and how these may affect learning."
+  evidence: "Evidence of meeting this descriptor area is via the [Handbook on ‘Promoting a Positive Learning Environment’](http://www.jeremythughes.com/handbook-promoting-a-positive-learning-environment.html), which references and discusses Piaget’s theory of cognitive development, and other development theories and research, and their application in the classroom."
   display-list: 
 
 - id: "apst1-2"
-  standard: "1.2 Understand how students learn."
-  graduate: "Demonstrate knowledge and understanding of research into how students learn and the implications for teaching."
-  evidence: "Evidence of meeting this standard area is via the [Handbook on ‘Promoting a Positive Learning Environment’](http://www.jeremythughes.com/handbook-promoting-a-positive-learning-environment.html), which details strategies for managing students in the classroom, making reference to education research and management theories, and linking this research to the strategies employed in the classroom."
+  descriptor: "1.2 Understand how students learn."
+  indicator: "Demonstrate knowledge and understanding of research into how students learn and the implications for teaching."
+  evidence: "Evidence of meeting this descriptor area is via the [Handbook on ‘Promoting a Positive Learning Environment’](http://www.jeremythughes.com/handbook-promoting-a-positive-learning-environment.html), which details strategies for managing students in the classroom, making reference to education research and management theories, and linking this research to the strategies employed in the classroom."
   display-list:
 
 - id: "apst1-3"
-  standard: "1.3 Students with diverse linguistic, cultural, religious and socioeconomic backgrounds."
-  graduate: "Demonstrate knowledge of teaching strategies that are responsive to the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds."
+  descriptor: "1.3 Students with diverse linguistic, cultural, religious and socioeconomic backgrounds."
+  indicator: "Demonstrate knowledge of teaching strategies that are responsive to the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds."
   evidence: ""
   display-list:
 
 - id: "apst1-4"
-  standard: "1.4 Strategies for teaching Aboriginal and Torres Strait Islander students."
-  graduate: "Demonstrate broad knowledge and understanding of the impact of culture, cultural identity and linguistic background on the education of students from Aboriginal and Torres Strait Islander backgrounds."
+  descriptor: "1.4 Strategies for teaching Aboriginal and Torres Strait Islander students."
+  indicator: "Demonstrate broad knowledge and understanding of the impact of culture, cultural identity and linguistic background on the education of students from Aboriginal and Torres Strait Islander backgrounds."
   evidence: ""
   display-list:
 
 - id: "apst1-5"
-  standard: "1.5 Differentiate teaching to meet the specific learning needs of students across the full range of abilities."
-  graduate: "Demonstrate knowledge and understanding of strategies for differentiating teaching to meet the specific learning needs of students across the full range of abilities."
+  descriptor: "1.5 Differentiate teaching to meet the specific learning needs of students across the full range of abilities."
+  indicator: "Demonstrate knowledge and understanding of strategies for differentiating teaching to meet the specific learning needs of students across the full range of abilities."
   evidence: ""
   display-list:
 
 - id: "apst1-6"
-  standard: "1.6 Strategies to support full participation of students with disability."
-  graduate: "Demonstrate broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disability."
+  descriptor: "1.6 Strategies to support full participation of students with disability."
+  indicator: "Demonstrate broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disability."
   evidence: ""
   display-list:
 
@@ -40,38 +40,38 @@
 
 
 - id: "apst2-1"
-  standard: "2.1 Content and teaching strategies of the teaching area."
-  graduate: "Demonstrate knowledge and understanding of the concepts, substance and structure of the content and teaching strategies of the teaching area."
+  descriptor: "2.1 Content and teaching strategies of the teaching area."
+  indicator: "Demonstrate knowledge and understanding of the concepts, substance and structure of the content and teaching strategies of the teaching area."
   evidence: ""
   display-list:
 
 - id: "apst2-2"
-  standard: "2.2 Content selection and organisation."
-  graduate: "Organise content into an effective learning and teaching sequence."
+  descriptor: "2.2 Content selection and organisation."
+  indicator: "Organise content into an effective learning and teaching sequence."
   evidence: ""
   display-list:
 
 - id: "apst2-3"
-  standard: "2.3 Curriculum, assessment and reporting."
-  graduate: "Use curriculum, assessment and reporting knowledge to design learning sequences and lesson plans."
+  descriptor: "2.3 Curriculum, assessment and reporting."
+  indicator: "Use curriculum, assessment and reporting knowledge to design learning sequences and lesson plans."
   evidence: ""
   display-list:
 
 - id: "apst2-4"
-  standard: "2.4 Understand and respect Aboriginal and Torres Strait Islander people to promote reconciliation between Indigenous and non-Indigenous Australians."
-  graduate: "Demonstrate broad knowledge of, understanding of and respect for Aboriginal and Torres Strait Islander histories, cultures and languages"
+  descriptor: "2.4 Understand and respect Aboriginal and Torres Strait Islander people to promote reconciliation between Indigenous and non-Indigenous Australians."
+  indicator: "Demonstrate broad knowledge of, understanding of and respect for Aboriginal and Torres Strait Islander histories, cultures and languages"
   evidence: ""
   display-list:
 
 - id: "apst2-5"
-  standard: "2.5 Literacy and numeracy strategies."
-  graduate: "Know and understand literacy and numeracy teaching strategies and their application in teaching areas."
+  descriptor: "2.5 Literacy and numeracy strategies."
+  indicator: "Know and understand literacy and numeracy teaching strategies and their application in teaching areas."
   evidence: ""
   display-list:
 
 - id: "apst2-6"
-  standard: "2.6 Information and Communication Technology (ICT)."
-  graduate: "Implement teaching strategies for using ICT to expand curriculum learning opportunities for students."
+  descriptor: "2.6 Information and Communication Technology (ICT)."
+  indicator: "Implement teaching strategies for using ICT to expand curriculum learning opportunities for students."
   evidence: ""
   display-list:
 
@@ -79,44 +79,44 @@
 
 
 - id: "apst3-1"
-  standard: "3.1 Establish challenging learning goals."
-  graduate: "Set learning goals that provide achievable challenges for students of varying abilities and characteristics."
+  descriptor: "3.1 Establish challenging learning goals."
+  indicator: "Set learning goals that provide achievable challenges for students of varying abilities and characteristics."
   evidence: ""
   display-list:
 
 - id: "apst3-2"
-  standard: "3.2 Plan, structure and sequence learning programs."
-  graduate: "Plan lesson sequences using knowledge of student learning, content and effective teaching strategies."
+  descriptor: "3.2 Plan, structure and sequence learning programs."
+  indicator: "Plan lesson sequences using knowledge of student learning, content and effective teaching strategies."
   evidence: ""
   display-list:
 
 - id: "apst3-3"
-  standard: "3.3 Use teaching strategies."
-  graduate: "Include a range of teaching strategies."
+  descriptor: "3.3 Use teaching strategies."
+  indicator: "Include a range of teaching strategies."
   evidence: ""
   display-list:
 
 - id: "apst3-4"
-  standard: "3.4 Select and use resources."
-  graduate: "Demonstrate knowledge of a range of resources, including ICT, that engage students in their learning."
+  descriptor: "3.4 Select and use resources."
+  indicator: "Demonstrate knowledge of a range of resources, including ICT, that engage students in their learning."
   evidence: ""
   display-list:
 
 - id: "apst3-5"
-  standard: "3.5 Use effective classroom communication."
-  graduate: "Demonstrate a range of verbal and non-verbal communication strategies to support student engagement."
+  descriptor: "3.5 Use effective classroom communication."
+  indicator: "Demonstrate a range of verbal and non-verbal communication strategies to support student engagement."
   evidence: ""
   display-list:
 
 - id: "apst3-6"
-  standard: "3.6 Evaluate and improve teaching programs."
-  graduate: "Demonstrate broad knowledge of strategies that can be used to evaluate teaching programs to improve student learning."
+  descriptor: "3.6 Evaluate and improve teaching programs."
+  indicator: "Demonstrate broad knowledge of strategies that can be used to evaluate teaching programs to improve student learning."
   evidence: ""
   display-list:
 
 - id: "apst3-7"
-  standard: "3.7 Engage parents/carers in the educative process."
-  graduate: "Describe a broad range of strategies for involving parents/carers in the educative process."
+  descriptor: "3.7 Engage parents/carers in the educative process."
+  indicator: "Describe a broad range of strategies for involving parents/carers in the educative process."
   evidence: ""
   display-list:
 
@@ -124,32 +124,32 @@
 
 
 - id: "apst4-1"
-  standard: "4.1 Support student participation."
-  graduate: "Identify strategies to support inclusive student participation and engagement in classroom activities."
+  descriptor: "4.1 Support student participation."
+  indicator: "Identify strategies to support inclusive student participation and engagement in classroom activities."
   evidence: ""
   display-list:
 
 - id: "apst4-2"
-  standard: "4.2 Manage classroom activities."
-  graduate: "Demonstrate the capacity to organise classroom activities and provide clear directions."
+  descriptor: "4.2 Manage classroom activities."
+  indicator: "Demonstrate the capacity to organise classroom activities and provide clear directions."
   evidence: ""
   display-list:
 
 - id: "apst4-3"
-  standard: "4.3 Manage challenging behaviour."
-  graduate: "Demonstrate knowledge of practical approaches to manage challenging behaviour."
+  descriptor: "4.3 Manage challenging behaviour."
+  indicator: "Demonstrate knowledge of practical approaches to manage challenging behaviour."
   evidence: ""
   display-list:
 
 - id: "apst4-4"
-  standard: "4.4 Maintain student safety."
-  graduate: "Describe strategies that support students’ well- being and safety working within school and/or system, curriculum and legislative requirements."
+  descriptor: "4.4 Maintain student safety."
+  indicator: "Describe strategies that support students’ well- being and safety working within school and/or system, curriculum and legislative requirements."
   evidence: ""
   display-list:
 
 - id: "apst4-5"
-  standard: "4.5 Use ICT safely, responsibly and ethically."
-  graduate: "Demonstrate an understanding of the relevant issues and the strategies available to support the safe, responsible and ethical use of ICT in learning and teaching."
+  descriptor: "4.5 Use ICT safely, responsibly and ethically."
+  indicator: "Demonstrate an understanding of the relevant issues and the strategies available to support the safe, responsible and ethical use of ICT in learning and teaching."
   evidence: ""
   display-list:
 
@@ -157,32 +157,32 @@
 
 
 - id: "apst5-1"
-  standard: "5.1 Assess student learning."
-  graduate: "Demonstrate understanding of assessment strategies, including informal and formal, diagnostic, formative and summative approaches to assess student learning."
+  descriptor: "5.1 Assess student learning."
+  indicator: "Demonstrate understanding of assessment strategies, including informal and formal, diagnostic, formative and summative approaches to assess student learning."
   evidence: ""
   display-list:
 
 - id: "apst5-2"
-  standard: "5.2 Provide feedback to students on their learning."
-  graduate: "Demonstrate an understanding of the purpose of providing timely and appropriate feedback to students about their learning."
+  descriptor: "5.2 Provide feedback to students on their learning."
+  indicator: "Demonstrate an understanding of the purpose of providing timely and appropriate feedback to students about their learning."
   evidence: ""
   display-list:
 
 - id: "apst5-3"
-  standard: "5.3 Make consistent and comparable judgements."
-  graduate: "Demonstrate understanding of assessment moderation and its application to support consistent and comparable judgements of student learning."
+  descriptor: "5.3 Make consistent and comparable judgements."
+  indicator: "Demonstrate understanding of assessment moderation and its application to support consistent and comparable judgements of student learning."
   evidence: ""
   display-list:
 
 - id: "apst5-4"
-  standard: "5.4 Interpret student data."
-  graduate: "Demonstrate the capacity to interpret student assessment data to evaluate student learning and modify teaching practice."
+  descriptor: "5.4 Interpret student data."
+  indicator: "Demonstrate the capacity to interpret student assessment data to evaluate student learning and modify teaching practice."
   evidence: ""
   display-list:
 
 - id: "apst5-5"
-  standard: "5.5 Report on student achievement."
-  graduate: "Demonstrate understanding of a range of strategies for reporting to students and parents/carers and the purpose of keeping accurate and reliable records of student achievement."
+  descriptor: "5.5 Report on student achievement."
+  indicator: "Demonstrate understanding of a range of strategies for reporting to students and parents/carers and the purpose of keeping accurate and reliable records of student achievement."
   evidence: ""
   display-list:
 
@@ -190,26 +190,26 @@
 
 
 - id: "apst6-1"
-  standard: "6.1 Identify and plan professional learning needs."
-  graduate: "Demonstrate an understanding of the role of the National Professional Standards for Teachers in identifying professional learning needs."
+  descriptor: "6.1 Identify and plan professional learning needs."
+  indicator: "Demonstrate an understanding of the role of the National Professional descriptors for Teachers in identifying professional learning needs."
   evidence: ""
   display-list:
 
 - id: "apst6-2"
-  standard: "6.2 Engage in professional learning and improve practice."
-  graduate: "Understand the relevant and appropriate sources of professional learning for teachers."
+  descriptor: "6.2 Engage in professional learning and improve practice."
+  indicator: "Understand the relevant and appropriate sources of professional learning for teachers."
   evidence: ""
   display-list:
 
 - id: "apst6-3"
-  standard: "6.3 Engage with colleagues and improve practice."
-  graduate: "Seek and apply constructive feedback from supervisors and teachers to improve teaching practices."
+  descriptor: "6.3 Engage with colleagues and improve practice."
+  indicator: "Seek and apply constructive feedback from supervisors and teachers to improve teaching practices."
   evidence: ""
   display-list:
 
 - id: "apst6-4"
-  standard: "6.4 Apply professional learning and improve student learning."
-  graduate: "Demonstrate an understanding of the rationale for continued professional learning and the implications for improved student learning."
+  descriptor: "6.4 Apply professional learning and improve student learning."
+  indicator: "Demonstrate an understanding of the rationale for continued professional learning and the implications for improved student learning."
   evidence: ""
   display-list:
 
@@ -217,25 +217,25 @@
 
 
 - id: "apst7-1"
-  standard: "7.1 Meet professional ethics and responsibilities."
-  graduate: "Understand and apply the key principles described in codes of ethics and conduct for the teaching profession."
+  descriptor: "7.1 Meet professional ethics and responsibilities."
+  indicator: "Understand and apply the key principles described in codes of ethics and conduct for the teaching profession."
   evidence: ""
   display-list:
 
 - id: "apst7-2"
-  standard: "7.2 Comply with legislative, administrative and organisational requirements."
-  graduate: "Understand the relevant legislative, administrative and organisational policies and processes required for teachers according to school stage."
+  descriptor: "7.2 Comply with legislative, administrative and organisational requirements."
+  indicator: "Understand the relevant legislative, administrative and organisational policies and processes required for teachers according to school stage."
   evidence: ""
   display-list:
 
 - id: "apst7-3"
-  standard: "7.3 Engage with the parents/carers."
-  graduate: "Understand strategies for working effectively, sensitively and confidentially with parents/carers"
+  descriptor: "7.3 Engage with the parents/carers."
+  indicator: "Understand strategies for working effectively, sensitively and confidentially with parents/carers"
   evidence: ""
   display-list:
 
 - id: "apst7-4"
-  standard: "7.4 Engage with professional teaching networks and broader communities."
-  graduate: "Understand the role of external professionals and community representatives in broadening teachers’ professional knowledge and practice."
+  descriptor: "7.4 Engage with professional teaching networks and broader communities."
+  indicator: "Understand the role of external professionals and community representatives in broadening teachers’ professional knowledge and practice."
   evidence: ""
   display-list:

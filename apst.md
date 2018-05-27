@@ -80,7 +80,7 @@ The following evidence is given for the graduate level proficiency.
 				<strong>{{ standard.standard}}</strong>
 			</p>
 			<p>
-				<strong>Graduate Level:</strong> {{standard.graduate}}
+				<strong>Graduate Level:</strong> {{standard.indicator}}
             </p>
 		</td>
 		<td>
@@ -91,7 +91,7 @@ The following evidence is given for the graduate level proficiency.
 			    <a href="{{ site.baseurl }}/apst/{{ standard.id | slice: 4, 6 }}">For a comprehensive list of relevant evidence/reflections see here</a>.
                 {%- if standard.display-list == true %}
                 <ul>
-                    {% for post in site.tags["5-2"] %} *
+                    {% for post in site.tags["5-2"] %} 
                     <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
                     {% endfor %}
 			    </ul>
