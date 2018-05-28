@@ -2,6 +2,7 @@
 layout: post
 title: "Getting started for the year"
 date: "2018-03-07 12:39:25"
+categories: blog
 published: false
 ---
 Reflections:

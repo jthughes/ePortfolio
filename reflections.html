@@ -6,11 +6,11 @@ permalink: /blog/
 {% if site.posts.size > 0 %}
 	<h2>Filter by Category:</h2> 	  
 	<ul style="margin-bottom:0.7cm;">
-		<li><a href="{{ site.baseurl }}/category/BTeach">#BTeach</a></li>
-		<li><a href="{{ site.baseurl }}/category/PD">#PD</a></li>
-		<li><a href="{{ site.baseurl }}/category/Blog">#Blog</a></li>
+		<li><a href="{{ site.baseurl }}/category/blog">#blog</a></li>
+		<li><a href="{{ site.baseurl }}/category/bteach">#bteach</a></li>
+		<li><a href="{{ site.baseurl }}/category/pd">#pd</a></li>
 	</ul>
-	
+
 	<ul class="post-list">
 		{% for post in site.posts %}
 			{% include post_preview.html %}

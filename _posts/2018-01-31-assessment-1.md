@@ -2,7 +2,7 @@
 layout: post
 title:  "Seminar 1 - Introducation to SACE"
 date:   2018-01-31 13:00
-categories: curriculum-core
+categories: core-cm
 ---
 **Response:** "From your experience of Seminar 1, and reading Chapter 2, what historical features do you see as influencing the current SACE curriculum?"
 

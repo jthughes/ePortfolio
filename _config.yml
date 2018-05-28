@@ -39,7 +39,25 @@ header_pages:
  - apst.md 
  - reflections.html
 
+collections:
+  category:
+    output: true
+  tag: 
+    output: true
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+  -
+    scope:
+      path: ""
+      type: tag
+    values:
+      layout: "tag"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

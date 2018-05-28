@@ -2,7 +2,7 @@
 layout: post
 title:  "Seminar 5: Educational Learning Theory"
 date:   2018-04-14 5:00pm
-categories: curriculum-core
+categories: core-cm
 ---
 An example of a learning experience I've had difficulty mastering in the past is in attempting to learning the Visual Studio workflow for projects at the same time as trying to learn how to use relational databases like SQL for the purposes of putting together more than a very simple phone application. The challenge comes in the large number of interconnected concepts and ideas that need to be mastered fairly simultaneously to produce the application, while most of them lie beyond my direct experience.
 

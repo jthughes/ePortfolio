@@ -2,6 +2,7 @@
 layout: post
 title: "Lessons from the Maths Teacher Blog-o-Sphere #1"
 date: "2018-03-07 08:46:09"
+categories: blog
 ---
 [From David Butler](https://twitter.com/DavidKButlerUoA/status/970569836009988097)
 
