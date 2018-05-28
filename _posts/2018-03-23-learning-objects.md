@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Learning Objects"
-date:   2018-04-23 3:00pm
-categories: ict-integration
+title:  "ICT: Learning Objects"
+date:   2018-03-23 3:00pm
+categories: core-cm bteach
 ---
 *An introduction to Video Libraries, Learning Objects, and Gamification.*
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Classroom Ideas for Physics and Maths"
 date: "2018-02-14 13:11:03"
-categories: blog, bteach
+categories: blog bteach
 ---
 Some conversations this week have resulted in some interesting ideas to consider for the future when teaching in the classroom.
 

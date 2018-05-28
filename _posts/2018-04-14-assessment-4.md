@@ -2,7 +2,7 @@
 layout: post
 title:  "Seminar 4: Assessment Of/As/For Learning"
 date:   2018-04-14 4:00pm
-categories: core-cm
+categories: core-cm bteach
 ---
 **Assessment *Of* Learning**
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Seminar 8: Principals Underpinning Frameworks"
 date:   2018-04-14 8:00pm
-categories: core-cm
+categories: core-cm bteach
 ---
 I decide to become a teacher because I had a list of traits I thought that good teacher had. I felt I possessed half that list, and that the rest were all traits I wanted to develop. The ones that I would identify with currently are as follows:
 * Teachers need to care about their students learning, and show it.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Online Communication"
+title:  "ICT: Online Communication"
 date:   2018-01-31 1:00pm
-categories: ict-integration
+categories: core-cm bteach
 ---
 *Three questions have been posed:
 1. Do we have a Digital Duty of Care?

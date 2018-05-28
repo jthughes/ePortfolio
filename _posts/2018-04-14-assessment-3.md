@@ -2,7 +2,7 @@
 layout: post
 title:  "Seminar 3: Assessment - Validity and Purpose"
 date:   2018-04-14 3:00pm
-categories: core-cm
+categories: core-cm bteach
 ---
 A non-exhaustive list of types of assessment:
 * Tests

@@ -2,7 +2,7 @@
 layout: post
 title:  "Reflections on Classroom Simulations"
 date:   2018-03-20 11:00pm
-categories: stic
+categories: stic bteach
 ---
 # Lesson 1 - Focusing on Teaching
 For the first lesson, I wanted something that I could get my 'class' to do. So seeing as I have 2 mugs full of dice, I decided to give a lesson on the probability distribution of rolling 2d6 (rolling two six-sided dice). The plan was to get the class to each take 2 dice, rolling them and noting down the sum of the numbers, and repeating this as many times as possible in 3-4 minutes. Then, we could collate the results on the whiteboard so as to see something that should vaguely resemble a normal distribution, with significantly more results falling around 6-8 than at 2-3 or 11-12. From here, a discussion about why that distribution arises as opposed to the flat distribution of a single dice, and calculate the probabilities of each result.

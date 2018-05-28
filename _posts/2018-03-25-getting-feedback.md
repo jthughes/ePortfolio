@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Getting Feedback"
+title:  "ICT: Getting Feedback"
 date:   2018-03-25 3:00pm
-categories: ict-integration
+categories: core-cm bteach
 ---
 Question 1: **Learning as its own reward?**
 
