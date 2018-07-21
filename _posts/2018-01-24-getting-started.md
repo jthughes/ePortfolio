@@ -3,6 +3,7 @@ layout: post
 title: "Getting started for the year"
 date: "2018-01-24 12:39:25"
 categories: blog bteach
+tags: []
 ---
 It's the first week back for 2018, earlier than normal for a 4 day intensive course to get us started, and it's been great.
 

@@ -77,7 +77,7 @@ The following evidence is given for the graduate level proficiency.
     <tr>
 		<td id="{{ standard.id }}">
 			<p>
-				<strong>{{ standard.descriptor}}</strong>
+				<strong>{{ standard.descriptor }}</strong>
 			</p>
 			<p>
 				<strong>Graduate Level:</strong> {{standard.indicator}}
@@ -85,17 +85,10 @@ The following evidence is given for the graduate level proficiency.
 		</td>
 		<td>
             <p>
-                {{ standard.evidence }}
+                {{ standard.evidence | replace: "site.url", site.url | markdownify }}
             </p>
             <p>
 			    <a href="{{ site.baseurl }}/apst/{{ standard.id | slice: 4, 6 }}">For a comprehensive list of relevant evidence/reflections see here</a>.
-                {%- if standard.display-list == true %}
-                <ul>
-                    {% for post in site.tags["5-2"] %} 
-                    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-                    {% endfor %}
-			    </ul>
-                {% endif %}
             </p>
         </td>
 	</tr>

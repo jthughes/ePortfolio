@@ -4,6 +4,7 @@ title: "Getting started for the year"
 date: "2018-03-07 12:39:25"
 categories: blog
 published: false
+tags: []
 ---
 Reflections:
 * [educ.sifnt.net.au] still actually works as of 7 March 2018, but redirects to school Haiku system.
