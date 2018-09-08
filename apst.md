@@ -85,7 +85,7 @@ The following evidence is given for the graduate level proficiency.
 		</td>
 		<td>
             <p>
-                {{ standard.evidence | replace: "site.url", site.url | markdownify }}
+                {{ standard.evidence | replace: "site.url", site.url | replace: "site.files", site.files | markdownify }}
             </p>
             <p>
 			    <a href="{{ site.baseurl }}/apst/{{ standard.id | slice: 4, 6 }}">For a comprehensive list of relevant evidence/reflections see here</a>.
