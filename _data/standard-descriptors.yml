@@ -3,238 +3,243 @@
 # Standard 1: Know students and how they learn
 - id: "apst1-1"
   descriptor: "1.1 Physical, social and intellectual development and characteristics of students."
-  indicator: "Demonstrate knowledge and understanding of physical, social and intellectual	development and characteristics of students and how these may affect learning."
-  evidence: "Evidence of meeting this standard area is via the [Handbook on ‘Promoting a Positive Learning Environment’](site.url/handbook/), which references and discusses Piaget’s theory of cognitive development, and other development theories and research, and their application in the classroom."
-  display-list: 
+  indicator: "Demonstrate knowledge and understanding of physical, social and intellectual development and characteristics of students and how these may affect learning."
+  reflection: ""
+  evidence: ""
 
 - id: "apst1-2"
   descriptor: "1.2 Understand how students learn."
   indicator: "Demonstrate knowledge and understanding of research into how students learn and the implications for teaching."
-  evidence: "Evidence of meeting this standard area is via the [Handbook on ‘Promoting a Positive Learning Environment’](site.url/handbook/), which details strategies for managing students in the classroom, making reference to education research and management theories, and linking this research to the strategies employed in the classroom."
-  display-list:
+  reflection: ""
+  evidence: ""
 
 - id: "apst1-3"
   descriptor: "1.3 Students with diverse linguistic, cultural, religious and socioeconomic backgrounds."
   indicator: "Demonstrate knowledge of teaching strategies that are responsive to the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst1-4"
   descriptor: "1.4 Strategies for teaching Aboriginal and Torres Strait Islander students."
   indicator: "Demonstrate broad knowledge and understanding of the impact of culture, cultural identity and linguistic background on the education of students from Aboriginal and Torres Strait Islander backgrounds."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst1-5"
   descriptor: "1.5 Differentiate teaching to meet the specific learning needs of students across the full range of abilities."
   indicator: "Demonstrate knowledge and understanding of strategies for differentiating teaching to meet the specific learning needs of students across the full range of abilities."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst1-6"
   descriptor: "1.6 Strategies to support full participation of students with disability."
   indicator: "Demonstrate broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disability."
+  reflection: ""
   evidence: ""
-  display-list:
 
 
 # Standard 2: Know the content and how to teach it
 - id: "apst2-1"
   descriptor: "2.1 Content and teaching strategies of the teaching area."
   indicator: "Demonstrate knowledge and understanding of the concepts, substance and structure of the content and teaching strategies of the teaching area."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst2-2"
   descriptor: "2.2 Content selection and organisation."
   indicator: "Organise content into an effective learning and teaching sequence."
-  evidence: "* Prepared 6 week [unit plan](site.url/site.files/uni-content/maths/maths-unit-plan.zip) schedule for 'Topic 6: Introduction to Differential Calculus' in the Stage 1 Mathematics subject.\n
-  * Prepared a 3 week [unit plan](site.url/site.files/uni-content/physics/physics-unit-plan.zip) on 'Topic 1.2: Force' in Stage 1 Physics."
-  display-list:
+  reflection: ""
+  evidence: ""
 
 - id: "apst2-3"
   descriptor: "2.3 Curriculum, assessment and reporting."
   indicator: "Use curriculum, assessment and reporting knowledge to design learning sequences and lesson plans."
-  evidence: "* [Unit plan](site.url/site.files/uni-content/maths-unit-plan.zip) for 'Topic 6: Introduction to Differential Calculus topic' in the Stage 1 Mathematics subject includes assessment pieces as part of the unit sequence \n
-* A [lesson plan](site.url/site.files/uni-content/maths/lesson-plan-unit-circle.zip) with materials to introduce the Unit Circle in “Topic 3.2: Circular Measure and Radian Measure” in Stage 1 Mathematics \n
-* Assessment pieces ([summative test](site.url/summative-test-newtons-laws.html) and [SHE investigation](site.url/she-task-dynamics-sport.html)) for “Topic 1.2: Forces” in Stage 1 Physics, as part of a unit plan with associated lesson plans\n
-* “Electric Fields” Topic [Concept Map](site.url/topic-concept-map-electric-fields.html) for Stage 2 Physics, breaking down the topic into the core flow of ideas and linking concepts to assist planning teaching the topic"
-  display-list:
+  reflection: ""
+  evidence: ""
 
 - id: "apst2-4"
   descriptor: "2.4 Understand and respect Aboriginal and Torres Strait Islander people to promote reconciliation between Indigenous and non-Indigenous Australians."
   indicator: "Demonstrate broad knowledge of, understanding of and respect for Aboriginal and Torres Strait Islander histories, cultures and languages"
-  evidence: ""
-  display-list:
+  reflection: "Promoting respect for Aboriginal and Torres Strait Islanders people, their histories, culture, and language, and promoting reconciliation between Indigenous and non-Indigenous Australians is undeniably important, but when the damage of the absence of respect and reconcilliation is not present daily, it can be easy to forget about its impact. Respect and reconcilliation is hard when everyone is not aware of the issues tied up in them, and if they are not talked about in school, it can be easy for that knowledge to be missed by entire classes of students, which only works to maintain current biases and disrespect. So, it is important to make sure are aware of the Indigenous cultures and histories, and are aware of the importance of reconcilliation and respect. While this content can be addressed directly in various classes, even just the steady reinforcement that there is value to these cultures and histories, and that there is a continuing need for reconcilliation can affect students and produce outcomes. [REVIEW]"
+  evidence: "Evidence of promoting reconciliation can be seen in the Indigenous Content Unit Plan, particularly the investigation."
 
 - id: "apst2-5"
   descriptor: "2.5 Literacy and numeracy strategies."
   indicator: "Know and understand literacy and numeracy teaching strategies and their application in teaching areas."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst2-6"
   descriptor: "2.6 Information and Communication Technology (ICT)."
   indicator: "Implement teaching strategies for using ICT to expand curriculum learning opportunities for students."
-  evidence: "Evidenced by a use of a series of Kahoots! for revision purposes in Stage 1 Physics: [Heating by Radiation](https://play.kahoot.it/#/k/96045a5c-767a-43ce-b042-4e7bafdb7095), [Heating & Greenhouse Effect review](https://play.kahoot.it/#/k/96045a5c-767a-43ce-b042-4e7bafdb7095), [Heat topic review](https://play.kahoot.it/#/k/45fe68fa-0248-4737-8573-bec798aef3a9), [Heat topic review 2](https://play.kahoot.it/#/k/54059199-c278-41e0-b44c-87332f53491f), [Heating by radiation review](https://play.kahoot.it/#/k/267881fc-a37d-4fab-b14c-3784aad16092)"
-  display-list:
+  reflection: "Use of ICT can be of significant benefit to student learning, though the manner in which it can depends heavily on the availability of technology inside and outside of the classroom. For example, using a learning management system (LMS), or a service such as OneNote to digitally organise online any notes and resources produced by the teacher, providing access to class content to students even if they were unable to attend a given lesson. I have used a tablet with stylus input while connected to a project to present notes and content instead of using a projector, which has allowed students to use personal devices in class to review notes from earlier in the class or from previous lessons, as necessary, without the need to keep all notes visible on the board at once. Interactive online quizzes using platforms like Kahoot provide opportunity to quickly review content in a fun way that all students can participate in. Use of video, or even the possibility of video conferencing, can provide the opportunity to involve professionals in relevant fields to contribute directly to the classroom without needing to step into the room."
+  evidence: "Evidence of using ICT to expand learning opportunities for students can be seen in the organised OneNote Class Notebooks providing access to notes and other resources for students, through the revision Kahoot quizes created, and the inclusion of resources such as videos in unit plans."
 
 
 # Standard 3: Plan for and implement effective teaching and learning
 - id: "apst3-1"
   descriptor: "3.1 Establish challenging learning goals."
   indicator: "Set learning goals that provide achievable challenges for students of varying abilities and characteristics."
-  evidence: "Increasingly challenging Questions, Bingo, Challenge Questions, guided example work"
-  display-list:
+  reflection: "What is challenging for a student varies significantly between students. Even when students are organised into streamed classes based on ability, there will usually be significant variation of ability between students on any given topic. Because of this, learning goals need to be flexible enough to provide challenge across this variation."
+  evidence: ""
 
 - id: "apst3-2"
   descriptor: "3.2 Plan, structure and sequence learning programs."
   indicator: "Plan lesson sequences using knowledge of student learning, content and effective teaching strategies."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst3-3"
   descriptor: "3.3 Use teaching strategies."
   indicator: "Include a range of teaching strategies."
-  evidence: "Evidenced by Permutations Lesson Plan/reflection"
-  display-list:
+  reflection: ""
+  evidence: ""
 
 - id: "apst3-4"
   descriptor: "3.4 Select and use resources."
   indicator: "Demonstrate knowledge of a range of resources, including ICT, that engage students in their learning."
-  evidence: "Evidenced by Kahoot, Permutations lesson plan, Physics lesson powerpoints, WODB, Notic and Wonder, Models"
-  display-list:
+  reflection: ""
+  evidence: ""
 
 - id: "apst3-5"
   descriptor: "3.5 Use effective classroom communication."
   indicator: "Demonstrate a range of verbal and non-verbal communication strategies to support student engagement."
-  evidence: "Evidencedy by reflection on early feedback."
-  display-list:
+  reflection: ""
+  evidence: ""
 
 - id: "apst3-6"
   descriptor: "3.6 Evaluate and improve teaching programs."
   indicator: "Demonstrate broad knowledge of strategies that can be used to evaluate teaching programs to improve student learning."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst3-7"
   descriptor: "3.7 Engage parents/carers in the educative process."
   indicator: "Describe a broad range of strategies for involving parents/carers in the educative process."
-  evidence: "Parent Teacher Interviews, Newsletters, surveys, SEQTA results"
-  display-list:
+  reflection: "There a different ways in which parents and carers can be involved in the educative process. One area in particular can be in providing support to students in subjects in which they are struggling. Communication with parents/carers could create an opportunity to share strategies or resources for support the child in learning the subject, whether in the classroom or at home. Related is in managing student workloads and ensuring the relevant assignment work is completed. For example, a work avoidance strategy sometimes used by students can be to tell teachers that work has been left at home, and then go home and tell parents/carers that no work has been set, or that it has been left at school. Left to go on, then no progress is made on student work or learning. This only strategy only works for the student if there is no communication between teachers and parents/carers. By keeping parents/carers informed, teachers and parents/carers can work together to support or approriately pressue students to support learning. Parents/carers can also be a good source of external expertice that can be be brought into the class to give different perspectives on content."
+  evidence: ""
 
 
 # Standard 4: Create and maintain supportive and safe learning environments
 - id: "apst4-1"
   descriptor: "4.1 Support student participation."
   indicator: "Identify strategies to support inclusive student participation and engagement in classroom activities."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst4-2"
   descriptor: "4.2 Manage classroom activities."
   indicator: "Demonstrate the capacity to organise classroom activities and provide clear directions."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst4-3"
   descriptor: "4.3 Manage challenging behaviour."
   indicator: "Demonstrate knowledge of practical approaches to manage challenging behaviour."
-  evidence: "Reflections on classroom management, Handbook"
-  display-list:
+  reflection: ""
+  evidence: ""
 
 - id: "apst4-4"
   descriptor: "4.4 Maintain student safety."
   indicator: "Describe strategies that support students’ well-being and safety working within school and/or system, curriculum and legislative requirements."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst4-5"
   descriptor: "4.5 Use ICT safely, responsibly and ethically."
   indicator: "Demonstrate an understanding of the relevant issues and the strategies available to support the safe, responsible and ethical use of ICT in learning and teaching."
+  reflection: ""
   evidence: ""
-  display-list:
 
 
 # Standard 5: Assess, provide feedback and report on student learning
 - id: "apst5-1"
   descriptor: "5.1 Assess student learning."
   indicator: "Demonstrate understanding of assessment strategies, including informal and formal, diagnostic, formative and summative approaches to assess student learning."
-  evidence: "This standard can be evidenced by the variety of materials preparred for different types of assessment: homework sheets, practice tests, summative tests, pre-tests, quick directed questions"
-  display-list:
+  reflection: ""
+  evidence: ""
 
 - id: "apst5-2"
   descriptor: "5.2 Provide feedback to students on their learning."
   indicator: "Demonstrate an understanding of the purpose of providing timely and appropriate feedback to students about their learning."
-  evidence: "Placement Reports"
-  display-list:
+  reflection: ""
+  evidence: "Evidence that feedback to students was provided in a timely manner can be seen in placement reports, and appropriate feedback can be seen in samples of assessed student work."
 
 - id: "apst5-3"
   descriptor: "5.3 Make consistent and comparable judgements."
   indicator: "Demonstrate understanding of assessment moderation and its application to support consistent and comparable judgements of student learning."
-  evidence: "Senior Maths C&M Moderation Confirmation Report"
-  display-list:
+  reflection: "Moderation is a very important, and is particularly important as an aspect of SACE assessment. Particarly, as at Stage 2 level, final student results are ranked against student results from across the state, but also the country (for the purpose of the ATAR), it is important that all students have recieved gradings that accurately represent the quality of their submitted work. 
+  - Fair grade
+  - Favouritism
+  - Different assessment pieces
+  - Different markers
+  - Clear evidence that it should be a different grade
+  "
+  evidence: "Evidence of knowlege of and ability to moderate assessment can be seen particularly in the Senior Mathematics moderation report assessment piece."
 
 - id: "apst5-4"
   descriptor: "5.4 Interpret student data."
   indicator: "Demonstrate the capacity to interpret student assessment data to evaluate student learning and modify teaching practice."
-  evidence: "Results of Year 9 pre-test"
-  display-list:
+  reflection: ""
+  evidence: ""
 
 - id: "apst5-5"
   descriptor: "5.5 Report on student achievement."
   indicator: "Demonstrate understanding of a range of strategies for reporting to students and parents/carers and the purpose of keeping accurate and reliable records of student achievement."
-  evidence: "Potential Artefact: Photo of signed diary with maths result."
-  display-list:
+  reflection: ""
+  evidence: ""
 
 
 # Standard 6: Engage in professional learning
 - id: "apst6-1"
   descriptor: "6.1 Identify and plan professional learning needs."
   indicator: "Demonstrate an understanding of the role of the Australian Professional Standards for Teachers in identifying professional learning needs."
-  evidence: "The Stronger Smarter professional development course was undertaken in response to identifying the need to broaden my knowledge of teaching students of Aboriginal or Torres Strait Islander backgrounds."
-  display-list:
+  reflection: "The Australian Professional Standards for Teachers (APSTs) provided a useful framework for teachers to identify their strengths and weaknesses as a teacher. Because care in being thorough has been taken in creating the standards, and then there is a requirement to engage with and provide evidence of the standards to gain and maintain registration, teachers are regularly expected to reflect on which standards have been given more attention to, and which standards need more attention. For pre-service teachers, they provide a good overview of the different aspects of teaching to try and engage with as much as possible while on placement, or in any other preparation for becoming a registered teacher. Having an awareness of which standards I had a need to learn about meant that when another educator talked about the Stronger Smarter online professional learning program, I was able immediately identify that as a specific source of professional learning to undertake to improve my practice as a teacher."
+  evidence: ""
 
 - id: "apst6-2"
   descriptor: "6.2 Engage in professional learning and improve practice."
   indicator: "Understand the relevant and appropriate sources of professional learning for teachers."
-  evidence: "Certificates of participation in school based PD, MASA PD, and other recognised training evidences understanding of the relevant and approriate sources of professional learning."
-  display-list:
+  reflection: "While reading a random webpages may offer suggestions that might end up leading to an improvement in your teaching at some point, it is hardly a reliable way of receiving relevant and appropriate professional learning. Good places to start are professional learning recommened or required by the Department for Education, or any other learning that is required for registration. Officially recognised training organisations become the best place to receive these types of training. Another place to find quality professional learning is through professional teaching associations. These associations organise or advertise professional learning opportunities to best support teachers that are part of the association. Often these organisation put on annual conferences that not only provide opportunity for proffessional learning through workshops and keynotes, but also provide great opportunities to network with other professionals. Schools will also often provide internal opportunities for professional development of staff that has been selected to support staff in meeting school objectives. Another source of professional learning is through properly researched, referenced, and reviewed, research papers and books on topics relevant to educations."
+  evidence: "Evidence can be seen in the different forms of professional learning that I have engaged in: mandated training, voluntary attendance of externally organised sessions, and internal school professional learning. "
 
 - id: "apst6-3"
   descriptor: "6.3 Engage with colleagues and improve practice."
   indicator: "Seek and apply constructive feedback from supervisors and teachers to improve teaching practices."
-  evidence: "Evidence of seeking and applying feedback is found throughout the Professional Experience Placement Reports."
-  display-list:
+  reflection: "Other teachers, particularly those with more experience than you, are great resources for improving your practice, but only if you talk to them, and actually trial any offered advice in your classroom. I was particuraly conscious of that as a pre-service teacher on teaching practicums. A nice thing about teaching practicum is the presence of a more experienced teacher in every lesson, who is able to offer rapid feedback on what went well, what needed improvement, and how to fix it, whether that's immediately after a lesson, or in a free moment during the lesson. Particularly in the earliest lessons I taught, it was incredibly valuable to be able to immediately try the mentor's suggestions in the next class, and see immediate improvements in the class. The continual access to the mentor was also useful in the planning process to ensure the reasonableness of unit and lesson plans."
+  evidence: "Evidence of seeking feedback is found particularly in the final report of each placement."
 
 - id: "apst6-4"
   descriptor: "6.4 Apply professional learning and improve student learning."
   indicator: "Demonstrate an understanding of the rationale for continued professional learning and the implications for improved student learning."
-  evidence: "Evie"
-  display-list:
+  reflection: "Fundamentally, continued professional learning supports teachers in improving their practice, and if teachers are imiproving the quality of their teaching effectively and appropriately, then this should provide opportunities for improved student learning. This doesn't just mean that the teacher might undertake learning to improve how they present a particular topic, but encompasses training to identify and support students struggling with mental health, or any other type of learning that allows teachers to support students through challenges from outside of the classroom, so that when they are inside the classroom they are in a better position to actually learn."
+  evidence: ""
 
 
 # Standard 7: Engage professionally with colleagues, parents/carers and the community
 - id: "apst7-1"
   descriptor: "7.1 Meet professional ethics and responsibilities."
   indicator: "Understand and apply the key principles described in codes of ethics and conduct for the teaching profession."
+  reflection: ""
   evidence: ""
-  display-list:
 
 - id: "apst7-2"
   descriptor: "7.2 Comply with legislative, administrative and organisational requirements."
   indicator: "Understand the relevant legislative, administrative and organisational policies and processes required for teachers according to school stage."
+  reflection: "SACE requirements"
   evidence: ""
-  display-list:
 
 - id: "apst7-3"
   descriptor: "7.3 Engage with the parents/carers."
   indicator: "Understand strategies for working effectively, sensitively and confidentially with parents/carers"
+  reflection: "Working with parents and carers is an important aspect of working in a school environment, and the manner in which that is done is important. Parents/carers are usually investing in the learning and wellbeing of their children, and when there are concerns about either, are often in a position to provide support from home, provided they are kept in the loop. UNFINISHED"
   evidence: ""
-  display-list:
 
 - id: "apst7-4"
   descriptor: "7.4 Engage with professional teaching networks and broader communities."
   indicator: "Understand the role of external professionals and community representatives in broadening teachers’ professional knowledge and practice."
-  evidence: "My understanding is evidenced by participation and contribution to a network of educators on Twitter"
-  display-list:
+  reflection: "Teaching isn't, or shouldn't, be a solitary profession, and a teacher isn't a master of everything, and does not have the time to be. As a teacher, the challenges you face are not always going to be so unique to you that no one else has ever faced a similar challenge. And so by enganging with other educators, and with members of other communities, you can bring into the classroom new strategies and additional knowledge that you as a sole teacher may never have otherwise discovered. I have made great use of Twitter to benefit my teaching. By connecting with maths educators from around the world, I have gained access to many useful resources, from which I have drawn activities, lesson ideas, and even teaching pedagogies. It has also lead to some great suggestions for professional readings to improve my practice, as well as support when I have asked for it.
+  Conferences.
+  Contributions.
+  "
+  evidence: "Twitter,"
