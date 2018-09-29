@@ -33,7 +33,7 @@ The Mathematics C&M course involved preparing a short instructional video, teach
 * [Moderation Report]({% link _evidence/maths/mod-report.pdf %})
 
 # ICT Integration
-[ICT Integration Certification]({% post_url 2018-04-01-ict-certificate %})
+[ICT Integration Certification]({% post_url ict-integration/2018-04-01-ict-certificate %})
 
 See [Podcast Responses]({% link _category/ict.md %}).
 
