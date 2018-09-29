@@ -37,6 +37,14 @@ STIC focused on understanding how to manage a classroom effectively. The product
 While the course focused on practicum and registration readiness, one last item produce was a unit plan modified with indigenous Australian content.
 * [Modified Unit plan with reflections]()
 
+# Practicum Reports
+
+* [Placement 1 Interim Report]( {% link _evidence/reports/prac-1-interim.pdf %})
+* [Placement 1 Report]( {% link _evidence/reports/prac-1.pdf %})
+* [Placement 2 Interim Report]( {% link _evidence/reports/prac-2-interim.pdf %})
+* [Placement 2 Report]( {% link _evidence/reports/prac-2.pdf %})
+
+
 # Other
 ## Professional Associations
 MASA (Mathematical Association of South Australia) - Student Member from 28 March 2018
