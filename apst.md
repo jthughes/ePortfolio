@@ -85,10 +85,13 @@ The following evidence is given for the graduate level proficiency.
 		</td>
 		<td>
             <p>
-                {{ standard.evidence | replace: "site.url", site.url | replace: "site.files", site.files | markdownify }}
+                {{ standard.reflection }}
             </p>
+			<p>
+				{{ standard.evidence }}
+			</p>
             <p>
-			    <a href="{{ site.baseurl }}/apst/{{ standard.id | slice: 4, 6 }}">For a comprehensive list of relevant evidence/reflections see here</a>.
+			    <a href="{{ site.baseurl }}/apst/{{ standard.id | slice: 4, 6 }}"> For evidence and further reflections see here</a>.
             </p>
         </td>
 	</tr>
