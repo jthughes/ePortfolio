@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reflections on Classroom Simulations"
-date:   2018-03-20 11:00pm
+date:   2018-03-20
 categories: stic bteach
 tags: [3-5]
 ---

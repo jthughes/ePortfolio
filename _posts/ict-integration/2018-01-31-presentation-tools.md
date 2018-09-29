@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "ICT: Presentation Tools"
-date:   2018-01-31 3:00pm
-categories: core-cm bteach
+date:   2018-01-31
+categories: ict core-cm bteach
 tags: [1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 3-2, 3-4, 3-6, 3-7]
 ---
 *An introduction to different presentation tools that move beyond whiteboards for delivering content. Examples include quiz platforms ([Poll Everywhere](http://polleverywhere.com/), [Socrative](http://socrative.com/), [Quizlet](http://quizlet.com/)), and presentation software packages ([Narrated PowerPoint](http://office.com/), [Prezi](http://prezi.com/), [Sway](http://sway.com/)).  A piece of technology called [Swivl](https://www.swivl.com/) was highlighted, being a system for conveniently recording a presentation, while moving around.*

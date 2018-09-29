@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary of Placement 1"
-date: "2018-07-21"
+date: 2018-07-21
 categories: bteach prof-ex
 tags: [7-4]
 ---

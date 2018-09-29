@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Seminar 7: TIMSS, PISA, NAPLAN"
-date:   2018-04-14 7:00pm
-categories: core-cm bteach
+date:   2018-04-14
+categories: core core-cm bteach
 tags: []
 ---
 > If you were sitting in a school staff-room and were asked 'Should we have national and international benchmark testing of Australian students?' what would your response be?

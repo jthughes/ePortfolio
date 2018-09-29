@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "ICT: Online Communication"
-date:   2018-01-31 1:00pm
-categories: core-cm bteach
+date:   2018-01-31
+categories: ict core-cm bteach
 tags: [2-6, 4-3, 4-4, 4-5, 5-2, 5-5, 7-1, 7-2, 7-3, 7-4]
 ---
 *Three questions have been posed:

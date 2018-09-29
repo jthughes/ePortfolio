@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "ICT: Literacy & Numeracy"
-date:   2018-03-04 3:00pm
-categories: core-cm bteach
+date:   2018-03-04
+categories: ict core-cm bteach
 tags: [1-1, 1-2, 1-3, 1-4, 2-1, 2-2, 2-3, 2-4, 2-5, 2-6, 5-1, 5-2, 5-3, 5-4, 5-5]
 ---
 An introduction to the idea of technology being a core literacies in addition to the 3 "R's" of Reading, Writing, and Arithmetic, given that enormous amounts of information are available to us from any device, and technology becomes more integrated into every part of society. Additionally, an introduction to different software solutions and packages that can be used to assist learning in Mathematics and Numeracy ([Mathletics](http://au.mathletics.com/), [MathsOnline](https://www.mathsonline.com.au/), [Geogebra](https://www.geogebra.org/), [Gapminder](https://www.gapminder.org/)) and Literacy ([Turnitin](http://turnitin.com/), [Schmoop](https://www.shmoop.com/), advanced uses of [Word](https://products.office.com/en-au/word)).

@@ -4,13 +4,13 @@
 - id: "apst1-1"
   descriptor: "1.1 Physical, social and intellectual development and characteristics of students."
   indicator: "Demonstrate knowledge and understanding of physical, social and intellectual	development and characteristics of students and how these may affect learning."
-  evidence: "Evidence of meeting this descriptor area is via the [Handbook on ‘Promoting a Positive Learning Environment’](site.url/handbook/), which references and discusses Piaget’s theory of cognitive development, and other development theories and research, and their application in the classroom."
+  evidence: "Evidence of meeting this standard area is via the [Handbook on ‘Promoting a Positive Learning Environment’](site.url/handbook/), which references and discusses Piaget’s theory of cognitive development, and other development theories and research, and their application in the classroom."
   display-list: 
 
 - id: "apst1-2"
   descriptor: "1.2 Understand how students learn."
   indicator: "Demonstrate knowledge and understanding of research into how students learn and the implications for teaching."
-  evidence: "Evidence of meeting this descriptor area is via the [Handbook on ‘Promoting a Positive Learning Environment’](site.url/handbook/), which details strategies for managing students in the classroom, making reference to education research and management theories, and linking this research to the strategies employed in the classroom."
+  evidence: "Evidence of meeting this standard area is via the [Handbook on ‘Promoting a Positive Learning Environment’](site.url/handbook/), which details strategies for managing students in the classroom, making reference to education research and management theories, and linking this research to the strategies employed in the classroom."
   display-list:
 
 - id: "apst1-3"
@@ -84,7 +84,7 @@
 - id: "apst3-1"
   descriptor: "3.1 Establish challenging learning goals."
   indicator: "Set learning goals that provide achievable challenges for students of varying abilities and characteristics."
-  evidence: ""
+  evidence: "Increasingly challenging Questions, Bingo, Challenge Questions, guided example work"
   display-list:
 
 - id: "apst3-2"
@@ -102,7 +102,7 @@
 - id: "apst3-4"
   descriptor: "3.4 Select and use resources."
   indicator: "Demonstrate knowledge of a range of resources, including ICT, that engage students in their learning."
-  evidence: "Evidenced by Kahoot, Permutations lesson plan, Physics lesson powerpoints."
+  evidence: "Evidenced by Kahoot, Permutations lesson plan, Physics lesson powerpoints, WODB, Notic and Wonder, Models"
   display-list:
 
 - id: "apst3-5"
@@ -140,7 +140,7 @@
 - id: "apst4-3"
   descriptor: "4.3 Manage challenging behaviour."
   indicator: "Demonstrate knowledge of practical approaches to manage challenging behaviour."
-  evidence: ""
+  evidence: "Reflections on classroom management, Handbook"
   display-list:
 
 - id: "apst4-4"
@@ -160,57 +160,57 @@
 - id: "apst5-1"
   descriptor: "5.1 Assess student learning."
   indicator: "Demonstrate understanding of assessment strategies, including informal and formal, diagnostic, formative and summative approaches to assess student learning."
-  evidence: ""
+  evidence: "This standard can be evidenced by the variety of materials preparred for different types of assessment: homework sheets, practice tests, summative tests, pre-tests, quick directed questions"
   display-list:
 
 - id: "apst5-2"
   descriptor: "5.2 Provide feedback to students on their learning."
   indicator: "Demonstrate an understanding of the purpose of providing timely and appropriate feedback to students about their learning."
-  evidence: ""
+  evidence: "Placement Reports"
   display-list:
 
 - id: "apst5-3"
   descriptor: "5.3 Make consistent and comparable judgements."
   indicator: "Demonstrate understanding of assessment moderation and its application to support consistent and comparable judgements of student learning."
-  evidence: ""
+  evidence: "Senior Maths C&M Moderation Confirmation Report"
   display-list:
 
 - id: "apst5-4"
   descriptor: "5.4 Interpret student data."
   indicator: "Demonstrate the capacity to interpret student assessment data to evaluate student learning and modify teaching practice."
-  evidence: ""
+  evidence: "Results of Year 9 pre-test"
   display-list:
 
 - id: "apst5-5"
   descriptor: "5.5 Report on student achievement."
   indicator: "Demonstrate understanding of a range of strategies for reporting to students and parents/carers and the purpose of keeping accurate and reliable records of student achievement."
-  evidence: ""
+  evidence: "Potential Artefact: Photo of signed diary with maths result."
   display-list:
 
 
 # Standard 6: Engage in professional learning
 - id: "apst6-1"
   descriptor: "6.1 Identify and plan professional learning needs."
-  indicator: "Demonstrate an understanding of the role of the National Professional descriptors for Teachers in identifying professional learning needs."
-  evidence: ""
+  indicator: "Demonstrate an understanding of the role of the Australian Professional Standards for Teachers in identifying professional learning needs."
+  evidence: "The Stronger Smarter professional development course was undertaken in response to identifying the need to broaden my knowledge of teaching students of Aboriginal or Torres Strait Islander backgrounds."
   display-list:
 
 - id: "apst6-2"
   descriptor: "6.2 Engage in professional learning and improve practice."
   indicator: "Understand the relevant and appropriate sources of professional learning for teachers."
-  evidence: ""
+  evidence: "Certificates of participation in school based PD, MASA PD, and other recognised training evidences understanding of the relevant and approriate sources of professional learning."
   display-list:
 
 - id: "apst6-3"
   descriptor: "6.3 Engage with colleagues and improve practice."
   indicator: "Seek and apply constructive feedback from supervisors and teachers to improve teaching practices."
-  evidence: ""
+  evidence: "Evidence of seeking and applying feedback is found throughout the Professional Experience Placement Reports."
   display-list:
 
 - id: "apst6-4"
   descriptor: "6.4 Apply professional learning and improve student learning."
   indicator: "Demonstrate an understanding of the rationale for continued professional learning and the implications for improved student learning."
-  evidence: ""
+  evidence: "Evie"
   display-list:
 
 
@@ -236,5 +236,5 @@
 - id: "apst7-4"
   descriptor: "7.4 Engage with professional teaching networks and broader communities."
   indicator: "Understand the role of external professionals and community representatives in broadening teachers’ professional knowledge and practice."
-  evidence: ""
+  evidence: "My understanding is evidenced by participation and contribution to a network of educators on Twitter"
   display-list:

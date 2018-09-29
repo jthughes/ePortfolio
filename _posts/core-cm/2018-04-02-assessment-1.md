@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Seminar 1 - Introducation to SACE"
-date:   2018-04-02 13:00
-categories: core-cm bteach
+date:   2018-04-02
+categories: core core-cm bteach
 tags: [5-1]
 ---
 **Response:** "From your experience of Seminar 1, and reading Chapter 2, what historical features do you see as influencing the current SACE curriculum?"

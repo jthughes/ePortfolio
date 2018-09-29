@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Seminar 8: Principals Underpinning Frameworks"
-date:   2018-04-14 8:00pm
-categories: core-cm bteach
+date:   2018-04-14
+categories: core core-cm bteach
 tags: [1-2, 1-3, 2-1, 2-6, 4-5, 6-2]
 ---
 I decide to become a teacher because I had a list of traits I thought that good teacher had. I felt I possessed half that list, and that the rest were all traits I wanted to develop. The ones that I would identify with currently are as follows:
@@ -10,7 +10,7 @@ I decide to become a teacher because I had a list of traits I thought that good 
 * They need to love helping people to learn.
 * They need to be aware of their need to continue to learn more, to become a better teacher
 * They need to know their content well.
-
+ 
 Looking at the Australian Professional Standards for Teachers (APST), I would already associate with the following standards:
 
 **1 - Know students and how they learn**

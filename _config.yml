@@ -38,6 +38,8 @@ kramdown:
 header_pages: 
  - apst.md 
  - reflections.html
+ - pd.md
+ - coursework.md
 
 collections:
   category:
