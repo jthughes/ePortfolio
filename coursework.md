@@ -8,12 +8,21 @@ permalink: /uni/
 See [Seminar Task reflections]({% link _category/core.md %}).
 
 ## Physics
+### University
 The Physics C&M course involved building a unit plan that included formative and summative assessment pieces, including tests, homework, a practical, and a Science as a Human Endeavour (SHE) task. All of these resources are collected together into the Unit Plan file. Additional resources produced include a topic concept map, teaching observations, and a synopsis of a research article.
 * [Newton's Laws Unit Plan]()
 * [Electric Fields Concept Map]()
 * [Lesson Plan of Observed Class]()
 * [Observation Reflections]()
 * [Article Synopsis]()
+
+### Placement
+The following Kahoot quizes were produced for purposes of revision in preparation for a midyear physics exam.
+- [Heating by Radiation](https://play.kahoot.it/#/k/96045a5c-767a-43ce-b042-4e7bafdb7095)
+- [Heating & Greenhouse Effect review](https://play.kahoot.it/#/k/96045a5c-767a-43ce-b042-4e7bafdb7095)
+- [Heat topic review](https://play.kahoot.it/#/k/45fe68fa-0248-4737-8573-bec798aef3a9)
+- [Heat topic review 2](https://play.kahoot.it/#/k/54059199-c278-41e0-b44c-87332f53491f)
+- [Heating by radiation review](https://play.kahoot.it/#/k/267881fc-a37d-4fab-b14c-3784aad16092)
 
 ## Mathematics
 The Mathematics C&M course involved preparing a short instructional video, teaching a 5 mintue lesson, preparing a lesson plan and a unit plan (including assessment), and moderating a maths investigation and preparing a report for the moderation. 
