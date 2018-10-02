@@ -135,6 +135,7 @@ My qualifications allow me to teach SACE Stage 1 and 2 Mathematics, Physics, and
 * Digital Technologies ([webpage](https://www.sace.sa.edu.au/web/digital-technologies/overview))
     - [Stage 1 Subject Outline (2018)]({% link _files/outlines/digital-tech-s1-2018.docx %})
     - [Stage 2 Subject Outline (2019)]({% link _files/outlines/digital-tech-s2-2019.docx %})
+    
 These outlines form the basis of the content to be covered with students undertaking SACE level subjects - typically year 11 students undertaking stage 1 courses, and year 12 students undertaking stage 2 courses. The web links provide access to additional information, including preapproved  assessment pieces and learning assessment plans. 
 
 Curriculum definitions for teaching Mathematics under the Australian curriculum can be found [here](https://www.australiancurriculum.edu.au/f-10-curriculum/mathematics/). 
