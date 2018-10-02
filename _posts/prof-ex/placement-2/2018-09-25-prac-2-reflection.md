@@ -2,7 +2,7 @@
 title: Reflection on Placement 2
 layout: post
 categories: prof-ex 
-tags: [1-5, 4-2, 4-3, 6-2, 6-3, 6-4, 7-2, 7-4]
+tags: [1-5, 4-2, 4-3, 6-2, 6-3, 6-4, 7-4]
 ---
 ![My Classroom]({% link _evidence/prac/prac-2-room.jpg %})
 
@@ -20,9 +20,16 @@ The thing I created that I'm the most proud of was a pair of 3D representations 
 ![Three quarters of a paper cylinder]({% link _evidence/prac/physical-3d.jpg %})
 My year 10s had been struggling to visualise the problem, so I made a digital 3D model to show on the whiteboard, but also a paper model that I could demonstrate removing a quarter from the cylinder and make some comparisons. The paper model particularly was well recieved! (APST 4.2)
 
+The other class I had was a group of year 7s once a week for maths enrichment activities. This was something that my mentor organised, knowing that I had a love of mathematical puzzles and curiousities. So first, he organised for me to visit the neighbouring school and observe their afterschool maths enrichment program. After I had observed a few of those classes, that's when he organised me to take another teacher's year 7 class. This was an interesting challenge as I didn't have a specific program or curriculum to follow, like I did with teaching the other classes, so I was free to do whatever activities I wished. So drawing from puzzles I had [previously collected](https://www.jeremyinstem.com/100factorial/), and from other things that [David Butler](https://twitter.com/DavidKButlerUoA) and Twitter had exposed me to, I assembled a sequence of activities that encouraged teamwork and creativity, to help show that maths encompasses more than just equations in a textbook, and to show that it can be highly collaborative, inspired by David Butler's [One Hundred Factorial puzzle session](https://www.adelaide.edu.au/mathslearning/play/). While it didn't always work exactly as I expected, some cool moments arose from it, and so I think it was successful overall.
 
+Something that I didn't expect to feature so prominently while on placement was the professional learning that went on. I ended up getting 4 certificates of participation in professional development, and those didn't include the full day professional learning day, or some other sessions held during school hours. One of those was the MASA Quiz night, which I was able to help run, but there was another specific maths PD for using the Maths300 online resource, and then a session on cyber-saftey. (APST 6.2) What was neat about the PD day is I was able to contribute to one of the sessions - one of the other teachers was running a session on teaching using games - they'd taught an entire topic (negative numbers) only using games - and was sharing some of the things she had done with the other teachers, and I was able to help out with that session.
 
+So what have I learned?
 
-Professional Learning (APST 6)
+* I still need to refine my process for giving feedback, something I've been [looking into](https://twitter.com/JeremyInSTEM/status/1026063044994990080). 
+* It's incredibly valuable to have planned and/or created any activities you might want to run before the start of term - sometimes you feel a lesson is just going to need an activity of some sort, but it can be really hard to be creative on demand. I suspect this may come easier as you build up a library of resources, but as I'm just starting out, I'm limited to anything I can source through my Twitter network, or that I can create with materials at hand. 
+* I can appreciate the value of taking the time at the start of the year to try and set up class rules, procedures, and sort of build the class culture. If that's been well established, I can see the rest of the year being a lot easier in terms of behaviour management. Coming in for term 3, and already being on a tight schedule due to the class having to keep in time with other classes, meant that there was no true opportunity to establish those methods first, and while I could try and fit into the mould established by my mentor, it doesn't work quite right as you don't truly understand the reasons why, and don't quite manage to properly internalise their processes.
 
-Managing the diary (APST 7.2)
+There may be other things, but I think I will need to mull them over first. So maybe I'll write a follow up post in the future. 
+
+But now with my final placement over, work awaits...
