@@ -30,7 +30,7 @@ See [podcast responses]({% link _category/ict.md %}).
 4. [Literacy & Numeracy]({% post_url ict-integration/2018-03-04-literacy-numeracy %}) (APST [2.5]({% link _tag/2-5.md %}))
 5. [Collaboration, Cooperation, and Sharing]({% post_url ict-integration/2018-03-11-sharing %}) (APST [2.6]({% link _tag/2-6.md %}))
 6. [Learning Objects]({% post_url ict-integration/2018-03-23-learning-objects %}) (APST [2.6]({% link _tag/2-6.md %}))
-7. [Getting Feeback]({% post_url ict-integration/2018-03-25-getting-feedback %}) (APST [6.3]({% link _tag/6-3.md %}))
+7. [Getting Feedback]({% post_url ict-integration/2018-03-25-getting-feedback %}) (APST [6.3]({% link _tag/6-3.md %}))
 
 ## Physics
 ### University
@@ -44,7 +44,7 @@ The Physics C&M course involved building a unit plan that included formative and
 (APST [2.1]({% link _tag/2-1.md %}), [2.2]({% link _tag/2-2.md %}), [2.3]({% link _tag/2-3.md %}), [2.6]({% link _tag/2-6.md %}), [3.2]({% link _tag/3-2.md %}), [3.3]({% link _tag/3-3.md %}), [3.4]({% link _tag/3-4.md %}), [5.1]({% link _tag/5-1.md %}))
 
 ### Placement
-The following Kahoot quizes were produced for purposes of revision in preparation for a midyear physics exam.
+The following Kahoot quizzes were produced for purposes of revision in preparation for a midyear physics exam.
 - [Heating by Radiation](https://play.kahoot.it/#/k/96045a5c-767a-43ce-b042-4e7bafdb7095)
 - [Heating & Greenhouse Effect review](https://play.kahoot.it/#/k/96045a5c-767a-43ce-b042-4e7bafdb7095)
 - [Heat topic review](https://play.kahoot.it/#/k/45fe68fa-0248-4737-8573-bec798aef3a9)
@@ -55,7 +55,7 @@ The following Kahoot quizes were produced for purposes of revision in preparatio
 
 ## Mathematics
 ### University
-The Mathematics C&M course involved preparing a short instructional video, teaching a 5 mintue lesson, preparing a lesson plan and a unit plan (including assessment), and moderating a maths investigation and preparing a report for the moderation. 
+The Mathematics C&M course involved preparing a short instructional video, teaching a 5-minute lesson, preparing a lesson plan and a unit plan (including assessment), and moderating a maths investigation and preparing a report for the moderation. 
 * [Proportionality Video]({% link _evidence/maths/video.mp4 %}) ([files]({% link _evidence/maths/vid-files.zip %})) 
 * [Unit Circle Lesson Plan]({% link _evidence/maths/lesson-plan.zip %})
 * [Introduction to Differential Calculus Unit Plan]({% link _evidence/maths/unit-plan.zip %}) 
@@ -135,6 +135,6 @@ My qualifications allow me to teach SACE Stage 1 and 2 Mathematics, Physics, and
 * Digital Technologies ([webpage](https://www.sace.sa.edu.au/web/digital-technologies/overview))
     - [Stage 1 Subject Outline (2018)]({% link _files/outlines/digital-tech-s1-2018.docx %})
     - [Stage 2 Subject Outline (2019)]({% link _files/outlines/digital-tech-s2-2019.docx %})
-These outlines form the basis of the content to be covered with students undertaking SACE level subjects - typically year 11 students undertaking stage 1 courses, and year 12 students undertaking stage 2 courses. The web links provide access to additional information, including preaproved assessment pieces and learning assessment plans. 
+These outlines form the basis of the content to be covered with students undertaking SACE level subjects - typically year 11 students undertaking stage 1 courses, and year 12 students undertaking stage 2 courses. The web links provide access to additional information, including preapproved  assessment pieces and learning assessment plans. 
 
-
+Curriculum definitions for teaching Mathematics under the Australian curriculum can be found [here](https://www.australiancurriculum.edu.au/f-10-curriculum/mathematics/). 
