@@ -49,6 +49,8 @@ collections:
   evidence:
     output: true
     permalink: /:collection/:path/:name
+  files:
+    output: true
 
 defaults:
   -
@@ -65,8 +67,6 @@ defaults:
       layout: "tag"
 
 apst-level: graduate
-
-files: "assets/files"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
