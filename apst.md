@@ -109,7 +109,7 @@ The following evidence is given for the graduate level proficiency.
 		</td>
 		<td>
 			{% for evidence in site.data.standard-descriptors %}
-				{%- if evidence.id contains heading.id %}
+				{%- if evidence.id contains standard.id %}
             <p>
                 {{ evidence.reflection }}
             </p>
