@@ -64,10 +64,10 @@ The following evidence is given for the graduate level proficiency.
 
 
 <div class="indicator-selector">
-	<button id="btn-graduate" onclick="selectTab('content-graduate')">Graduate<div>
-	<button id="btn-proficient" onclick="selectTab('content-proficient')">Proficient</div>
-	<button id="btn-accomplished" onclick="selectTab('content-accomplished')">Highly Accomplished</div>
-	<button id="btn-lead" onclick="selectTab('content-lead')">Lead</div>
+	<button id="btn-graduate" onclick="selectTab('content-graduate')">Graduate</button>
+	<button id="btn-proficient" onclick="selectTab('content-proficient')">Proficient</button>
+	<button id="btn-accomplished" onclick="selectTab('content-accomplished')">Highly Accomplished</button>
+	<button id="btn-lead" onclick="selectTab('content-lead')">Lead</button>
 </div>
 
 <div id="content">
