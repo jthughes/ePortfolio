@@ -121,12 +121,38 @@ The following evidence is given for the lead level proficiency.
 		<td>
 			{% for evidence in site.data.standard-descriptors %}
 				{%- if evidence.id contains standard.id %}
-            <p>
-                {{ evidence.reflection }}
-            </p>
-			<p>
-				{{ evidence.evidence }}
-			</p>
+			<div class="indicator content-graduate">
+				<p>
+					{{ evidence.reflection-graduate }}
+				</p>
+				<p>
+					{{ evidence.evidence-graduate }}
+				</p>
+			</div>
+			<div class="indicator content-proficient">
+				<p>
+					{{ evidence.reflection-proficient }}
+				</p>
+				<p>
+					{{ evidence.evidence-proficient }}
+				</p>
+			</div>
+			<div class="indicator content-accomplished">
+				<p>
+					{{ evidence.reflection-accomplished }}
+				</p>
+				<p>
+					{{ evidence.evidence-accomplished }}
+				</p>
+			</div>
+			<div class="indicator content-lead">
+				<p>
+					{{ evidence.reflection-lead }}
+				</p>
+				<p>
+					{{ evidence.evidence-lead }}
+				</p>
+			</div>
 				{% endif %}
 			{% endfor %}
             <p>
@@ -138,6 +164,7 @@ The following evidence is given for the lead level proficiency.
 {% endfor %}
 </table>
 {% endfor %}
+
 <script>
 	function selectTab(currentIndicator) {
   		var i;
