@@ -4,7 +4,7 @@
 
 layout: page
 ---
-![Portrait]({% link _files/portrait.png %}){:width="150px" align="right"} 
+![Portrait]({{ site.url }}/{{ site.baseurl }}/files/portrait.png){:width="150px" align="right"} 
 
 My name is Jeremy Hughes, and I am a STEM Educator.
 
