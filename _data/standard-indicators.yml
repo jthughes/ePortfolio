@@ -7,8 +7,6 @@
   indicator-proficient: "Use teaching strategies based on knowledge of students’ physical, social and intellectual development and characteristics to improve student learning."
   indicator-accomplished: "Select from a flexible and effective repertoire of teaching strategies to suit the physical, social and intellectual development and characteristics of students."
   indicator-lead: "Lead colleagues to select and develop teaching strategies to improve student learning using knowledge of the physical, social and intellectual development and characteristics of students."
-  
-  
 
 - id: "apst1-2"
   descriptor: "1.2 Understand how students learn."
@@ -23,7 +21,6 @@
   indicator-proficient: "Design and implement teaching strategies that are responsive to the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds."
   indicator-accomplished: "Support colleagues to develop effective teaching strategies that address the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds."
   inidcator-lead: "Evaluate and revise school learning and teaching programs, using expert and community knowledge and experience, to meet the needs of students with diverse linguistic, cultural, religious and socioeconomic backgrounds."
-  
 
 - id: "apst1-4"
   descriptor: "1.4 Strategies for teaching Aboriginal and Torres Strait Islander students."
@@ -32,14 +29,12 @@
   indicator-accomplished: "Provide advice and support colleagues in the implementation of effective teaching strategies for Aboriginal and Torres Strait Islander students using knowledge of and support from community representatives."
   inidcator-lead: "Develop teaching programs that support equitable and ongoing participation of Aboriginal and Torres Strait Islander students by engaging in collaborative relationships with community representatives and parents/carers."
   
-
 - id: "apst1-5"
   descriptor: "1.5 Differentiate teaching to meet the specific learning needs of students across the full range of abilities."
   indicator-graduate: "Demonstrate knowledge and understanding of strategies for differentiating teaching to meet the specific learning needs of students across the full range of abilities."
   indicator-proficient: "Develop teaching activities that incorporate differentiated strategies to meet the specific learning needs of students across the full range of abilities."
   indicator-accomplished: "Evaluate learning and teaching programs, using student assessment data, that are differentiated for the specific learning needs of students across the full range of abilities."
   inidcator-lead: "Lead colleagues to evaluate the effectiveness of learning and teaching programs differentiated for the specific learning needs of students across the full range of abilities."
-  
 
 - id: "apst1-6"
   descriptor: "1.6 Strategies to support full participation of students with disability."
@@ -54,17 +49,17 @@
 - id: "apst2-1"
   descriptor: "2.1 Content and teaching strategies of the teaching area."
   indicator-graduate: "Demonstrate knowledge and understanding of the concepts, substance and structure of the content and teaching strategies of the teaching area."
-  indicator-proficient: ""
-  indicator-accomplished: ""
-  inidcator-lead: ""
+  indicator-proficient: "Apply knowledge of the content and teaching strategies of the teaching area to develop engaging teaching activities."
+  indicator-accomplished: "Support colleagues using current and comprehensive knowledge of content and teaching strategies to develop and implement engaging learning and teaching programs."
+  inidcator-lead: "Lead initiatives within the school to evaluate and improve knowledge of content and teaching strategies and demonstrate exemplary teaching of subjects using effective, research-based learning and teaching programs."
   
 
 - id: "apst2-2"
   descriptor: "2.2 Content selection and organisation."
   indicator-graduate: "Organise content into an effective learning and teaching sequence."
-  indicator-proficient: "Apply knowledge of the content and teaching strategies of the teaching area to develop engaging teaching activities."
-  indicator-accomplished: "Support colleagues using current and comprehensive knowledge of content and teaching strategies to develop and implement engaging learning and teaching programs."
-  inidcator-lead: "Lead initiatives within the school to evaluate and improve knowledge of content and teaching strategies and demonstrate exemplary teaching of subjects using effective, research-based learning and teaching programs."
+  indicator-proficient: "Organise content into coherent, well-sequenced learning and teaching programs."
+  indicator-accomplished: "Exhibit innovative practice in the selection and organisation of content and delivery of learning and teaching programs."
+  inidcator-lead: "Lead initiatives that utilise comprehensive content knowledge to improve the selection and sequencing of content into coherently organised learning and teaching programs."
   
 
 - id: "apst2-3"
