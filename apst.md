@@ -147,7 +147,7 @@ The following evidence is given for the lead level proficiency.
   		}
 		var j;
 		var y = document.getElementsByClassName(currentIndicator);
-		for (j = 0; j < y>) {
+		for (j = 0; j < y.length; j++) {
   			y[j].style.display = "block";
 		}
 	}
