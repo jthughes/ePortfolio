@@ -4,7 +4,7 @@ title: Standards
 permalink: /apst/
 ---
 
-The [Australian Professional Standards for Teachers (APST)](https://www.aitsl.edu.au/docs/default-source/apst-resources/australian_professional_standard_for_teachers_final.pdf)are summarised here under their three main headings, and listed below in more detail with my reflections and evidence for each. Illustrations of these standards, as well as further details can also be found on the [Australian Institute for Teaching and School Leadership (AITSL)](https://www.aitsl.edu.au/teach/standards) website.
+The [Australian Professional Standards for Teachers (APST)](https://www.aitsl.edu.au/docs/default-source/apst-resources/australian_professional_standard_for_teachers_final.pdf) are summarised here under their three main headings, and listed below in more detail with my reflections and evidence for each. Illustrations of these standards, as well as further details can also be found on the [Australian Institute for Teaching and School Leadership (AITSL)](https://www.aitsl.edu.au/teach/standards) website.
 
 The following evidence is given for the graduate level proficiency.
 
