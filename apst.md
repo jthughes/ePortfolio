@@ -63,6 +63,16 @@ The following evidence is given for the graduate level proficiency.
 4. [Engage with professional teaching networks and broader communities](#apst7-4)
 
 
+<div class="indicator-selector">
+	<button id="btn-graduate" onclick="selectTab('content-graduate')">Graduate<div>
+	<button id="btn-proficient" onclick="selectTab('content-proficient')">Proficient</div>
+	<button id="btn-accomplished" onclick="selectTab('content-accomplished')">Highly Accomplished</div>
+	<button id="btn-lead" onclick="selectTab('content-lead')">Lead</div>
+</div>
+
+<div id="content">
+
+
 {% for heading in site.data.standard-heading %}
 # {{ heading.standard }} {#{{ heading.id }}}
 <table>
@@ -72,16 +82,33 @@ The following evidence is given for the graduate level proficiency.
 		<th>Standard</th>
 		<th>Reflection and Evidence against Standard</th>
 	</tr>
-{%- for standard in site.data.standard-descriptors %}
+{%- for standard in site.data.standard-indicators %}
     {%- if standard.id contains heading.id %}
     <tr>
 		<td id="{{ standard.id }}">
 			<p>
 				<strong>{{ standard.descriptor }}</strong>
 			</p>
-			<p>
-				<strong>Graduate Level:</strong> {{standard.indicator}}
-            </p>
+			<div id="content-graduate" class="indicator">
+				<p>
+					<strong>Graduate Level:</strong> {{standard.indicator-graduate}}
+				</p>
+			</div>
+			<div id="content-proficient" class="indicator" style="display:none">
+				<p>
+					<strong>Proficient Level:</strong> {{standard.indicator-proficient}}
+				</p>
+			</div>
+			<div id="content-accomplished" class="indicator" style="display:none">
+				<p>
+					<strong>Highly Accomplished Level:</strong> {{standard.indicator-accomplished}}
+				</p>
+			</div>
+			<div id="content-lead" class="indicator" style="display:none">
+				<p>
+					<strong>Lead Level:</strong> {{standard.indicator-lead}}
+				</p>
+			</div>
 		</td>
 		<td>
             <p>
@@ -99,3 +126,13 @@ The following evidence is given for the graduate level proficiency.
 {% endfor %}
 </table>
 {% endfor %}
+<script>
+	function selectTab(currentIndicator) {
+  		var i;
+  		var x = document.getElementsByClassName("indicator");
+  		for (i = 0; i < x.length; i++) {
+    		x[i].style.display = "none";
+  		}
+  		document.getElementById(currentIndicator).style.display = "block";
+	}
+</script>
