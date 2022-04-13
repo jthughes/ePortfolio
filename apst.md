@@ -87,22 +87,22 @@ The following evidence is given for the graduate level proficiency.
 			<p>
 				<strong>{{ standard.descriptor }}</strong>
 			</p>
-			<div id="content-graduate" class="indicator">
+			<div xlass="indicator content-graduate">
 				<p>
 					<strong>Graduate Level:</strong> {{standard.indicator-graduate}}
 				</p>
 			</div>
-			<div id="content-proficient" class="indicator" style="display:none">
+			<div class="indicator content-proficient" style="display:none">
 				<p>
 					<strong>Proficient Level:</strong> {{standard.indicator-proficient}}
 				</p>
 			</div>
-			<div id="content-accomplished" class="indicator" style="display:none">
+			<div class="indicator content-accomplished" style="display:none">
 				<p>
 					<strong>Highly Accomplished Level:</strong> {{standard.indicator-accomplished}}
 				</p>
 			</div>
-			<div id="content-lead" class="indicator" style="display:none">
+			<div class="indicator content-lead" style="display:none">
 				<p>
 					<strong>Lead Level:</strong> {{standard.indicator-lead}}
 				</p>
@@ -135,6 +135,10 @@ The following evidence is given for the graduate level proficiency.
   		for (i = 0; i < x.length; i++) {
     		x[i].style.display = "none";
   		}
-  		document.getElementById(currentIndicator).style.display = "block";
+		var j;
+		var y = document.getElementsByClassName(currentIndicator);
+		for (j = 0; j < y>) {
+  			y[j].style.display = "block";
+		}
 	}
 </script>
