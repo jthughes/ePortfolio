@@ -121,7 +121,7 @@ The following evidence is given for the lead level proficiency.
 		<td>
 			{% for evidence in site.data.standard-descriptors %}
 				{%- if evidence.id contains standard.id %}
-			<div class="indicator content-graduate">
+			<div class="indicator content-graduate" >
 				<p>
 					{{ evidence.reflection-graduate }}
 				</p>
@@ -129,7 +129,7 @@ The following evidence is given for the lead level proficiency.
 					{{ evidence.evidence-graduate }}
 				</p>
 			</div>
-			<div class="indicator content-proficient">
+			<div class="indicator content-proficient" style="display:none">
 				<p>
 					{{ evidence.reflection-proficient }}
 				</p>
@@ -137,7 +137,7 @@ The following evidence is given for the lead level proficiency.
 					{{ evidence.evidence-proficient }}
 				</p>
 			</div>
-			<div class="indicator content-accomplished">
+			<div class="indicator content-accomplished" style="display:none">
 				<p>
 					{{ evidence.reflection-accomplished }}
 				</p>
@@ -145,7 +145,7 @@ The following evidence is given for the lead level proficiency.
 					{{ evidence.evidence-accomplished }}
 				</p>
 			</div>
-			<div class="indicator content-lead">
+			<div class="indicator content-lead" style="display:none">
 				<p>
 					{{ evidence.reflection-lead }}
 				</p>
