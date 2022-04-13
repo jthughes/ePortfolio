@@ -63,15 +63,12 @@ The following evidence is given for the graduate level proficiency.
 4. [Engage with professional teaching networks and broader communities](#apst7-4)
 
 
-<div class="indicator-selector">
+<!-- <div class="indicator-selector">
 	<button id="btn-graduate" onclick="selectTab('content-graduate')">Graduate</button>
 	<button id="btn-proficient" onclick="selectTab('content-proficient')">Proficient</button>
 	<button id="btn-accomplished" onclick="selectTab('content-accomplished')">Highly Accomplished</button>
 	<button id="btn-lead" onclick="selectTab('content-lead')">Lead</button>
-</div>
-
-<div id="content">
-
+</div>-->
 
 {% for heading in site.data.standard-heading %}
 # {{ heading.standard }} {#{{ heading.id }}}
