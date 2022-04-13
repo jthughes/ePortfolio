@@ -6,7 +6,25 @@ permalink: /apst/
 
 The [Australian Professional Standards for Teachers (APST)](https://www.aitsl.edu.au/docs/default-source/apst-resources/australian_professional_standard_for_teachers_final.pdf) are summarised here under their three main headings, and listed below in more detail with my reflections and evidence for each. Illustrations of these standards, as well as further details can also be found on the [Australian Institute for Teaching and School Leadership (AITSL)](https://www.aitsl.edu.au/teach/standards) website.
 
+<div class="indicator-selector">
+	<button id="btn-graduate" onclick="selectTab('content-graduate')">Graduate</button>
+	<button id="btn-proficient" onclick="selectTab('content-proficient')">Proficient</button>
+	<button id="btn-accomplished" onclick="selectTab('content-accomplished')">Highly Accomplished</button>
+	<button id="btn-lead" onclick="selectTab('content-lead')">Lead</button>
+</div>
+
+<div class="indicator content-graduate">
 The following evidence is given for the graduate level proficiency.
+</div>
+<div class="indicator content-proficient" style="display:none">
+The following evidence is given for the proficient level proficiency.
+</div>
+<div class="indicator content-accomplished" style="display:none">
+The following evidence is given for the highly accomplished level proficiency.
+</div>
+<div class="indicator content-lead" style="display:none">
+The following evidence is given for the lead level proficiency.
+</div>
 
 # Professional Knowledge
 ### [1. Know students and how they learn](#apst1)
@@ -63,14 +81,6 @@ The following evidence is given for the graduate level proficiency.
 4. [Engage with professional teaching networks and broader communities](#apst7-4)
 
 
- <div class="indicator-selector">
-	<button id="btn-graduate" onclick="selectTab('content-graduate')">Graduate</button>
-	<button id="btn-proficient" onclick="selectTab('content-proficient')">Proficient</button>
-	<button id="btn-accomplished" onclick="selectTab('content-accomplished')">Highly Accomplished</button>
-	<button id="btn-lead" onclick="selectTab('content-lead')">Lead</button>
-</div>
-
-
 {% for heading in site.data.standard-heading %}
 # {{ heading.standard }} {#{{ heading.id }}}
 <table>
@@ -87,7 +97,7 @@ The following evidence is given for the graduate level proficiency.
 			<p>
 				<strong>{{ standard.descriptor }}</strong>
 			</p>
-			<div xlass="indicator content-graduate">
+			<div class="indicator content-graduate">
 				<p>
 					<strong>Graduate Level:</strong> {{standard.indicator-graduate}}
 				</p>
