@@ -112,13 +112,15 @@ The following evidence is given for the graduate level proficiency.
 		</td>
 		<td>
 			{% for evidence in site.data.standard-descriptors %}
-			{%- if evidence.id contains heading.id %}
+				{%- if evidence.id contains heading.id %}
             <p>
                 {{ evidence.reflection }}
             </p>
 			<p>
 				{{ evidence.evidence }}
 			</p>
+				{% endif %}
+			{% endfor %}
             <p>
 			    <a href="{{ site.url }}/{{ site.baseurl }}/apst/{{ standard.id | slice: 4, 6 }}"> For evidence and further reflections see here</a>.
             </p>
