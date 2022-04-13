@@ -12,6 +12,7 @@ The [Australian Professional Standards for Teachers (APST)](https://www.aitsl.ed
 	<button id="btn-accomplished" onclick="selectTab('content-accomplished')">Highly Accomplished</button>
 	<button id="btn-lead" onclick="selectTab('content-lead')">Lead</button>
 </div>
+<br>
 
 <div class="indicator content-graduate">
 The following evidence is given for the graduate level proficiency.
