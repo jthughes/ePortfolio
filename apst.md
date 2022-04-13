@@ -91,7 +91,7 @@ The following evidence is given for the graduate level proficiency.
 				{{ standard.evidence }}
 			</p>
             <p>
-			    <a href="{{ site.baseurl }}"> For evidence and further reflections see here</a>.
+			    <a href="{{ site.url }}/{{ site.baseurl }}/apst/{{ standard.id | slice: 4, 6 }}"> For evidence and further reflections see here</a>.
             </p>
         </td>
 	</tr>
